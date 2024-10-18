@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{%static 'img/logo.png'%}" type="image/x-icon">
+    <title>Cosevi</title>
+    <link rel="stylesheet" href="{% static 'styles/css.css' %}">
+</head>
+
+<body>
+    <!-- Barra de navegación amarilla -->
+    <div class="menu-yellow container">
+        <nav class="navbar perfil">
+            <ul>
+                <li><a href="#">Preguntas Frecuentes</a></li>
+                <li><a href="#">Otras Instituciones</a></li>
+                <li><a href="#">Red de Transparencia</a></li>
+                <li><a href="#">Quejas y Denuncias</a></li>
+                <li><a href="#">Contáctenos</a></li>
+                <li>
+                    <div class="search-container">
+                        <input type="text">
+                        <img src="{%static 'img/lupa.png'%}" alt="Buscar" class="search-icon">
+                    </div>
+                </li>
+                <li><a href="#"><img src="img/instagram.png" alt="" class="icon"></a></li>
+                <li><a href="#"><img src="img/facebook.png" alt="" class="icon"></a></li>
+                <li><a href="#">Registrarse o Iniciar</a></li>
+            </ul>
+        </nav>
+    </div>
+
+    <!-- Barra de navegación negra -->
+    <div class="menu-black container">
+        <a href="#"><img src="{%static 'img/logo.png'%}" class="logo" alt=""></a>
+        <nav class="navbar perfil">
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="#">Servicios</a></li>
+                <li><a href="#">Programas</a></li>
+                <li><a href="#">Seguridad Vial Virtual</a></li>
+                <li><a href="#">Normativa</a></li>
+                <li><a href="#">Noticias</a></li>
+                <li><a href="#">Nosotros</a></li>
+                <li><a href="#">Observatorio</a></li>
+                <a class="CB" href="#">ChatBot</a>
+            </ul>
+        </nav>
+    </div>
+    <div class="background-container">
+        <img src="{%static 'img/fondo.jpg'%}" class="background-image">
+        <div class="message-container">
+            <div id="messages" class="clearfix">
+                <!-- Mensajes se agregarán aquí -->
+            </div>
+            <div id="wait-message">
+                Esperando respuesta<span id="dots"></span>
+            </div>
+        </div>
+
+
+
+        <!-- Contenedor de chat -->
+        <div class="chat-container">
+            <div class="chat-messages"></div>
+            <div class="chat-input">
+                <form id="chat-form" action="">
+                    <input type="text" autofocus id="message-input" placeholder="Escribe tu mensaje" required>
+                    <button type="submit">Consultar</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="{% static 'js/chat.js' %}"></script>
+</body>
+
+</html>

@@ -1,0 +1,342 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Asegura que el padding y el borde no afecten el tamaño total */
+}
+
+body {
+    font-family: Arial, sans-serif; /* Fuente global */
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Estilos de la barra amarilla */
+.menu-yellow {
+    background-color: #f6cf3c;
+    width: 100%;
+    height: 60px;
+    position: relative; /* Asegura que tenga un contexto de apilamiento */
+    z-index: 10; /* Asegúrate de que esté por encima de la imagen */
+}
+
+.menu-yellow .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    padding: 0; /* Elimina el padding */
+    height: 100%; /* Hace que la lista ocupe el alto completo de la barra */
+    align-items: center; /* Centra verticalmente los elementos */
+}
+
+.menu-yellow .navbar ul li {
+    margin: 0 15px; /* Espaciado horizontal entre los elementos */
+}
+
+.menu-yellow .navbar ul li a {
+    font-size: 11px;
+    color: #000;
+    text-transform: uppercase;
+    text-decoration: none; /* Elimina el subrayado */
+    line-height: 60px; /* Centra verticalmente el texto en la barra amarilla */
+    font-weight: bold; /* Aplica negrita */
+}
+
+/* Estilos de la barra negra */
+.menu-black {
+    display: flex; /* Usar flexbox para alineación */
+    align-items: center; /* Centra todos los elementos verticalmente */
+    background-color: #000; /* Negro */
+    width: 100%; /* Asegura que ocupa el 100% */
+    height: 60px; /* Igual al alto de la barra amarilla */
+    margin-top: -1px; /* Elimina espacio entre las barras */
+    position: relative; /* Necesario para el posicionamiento */
+    z-index: 10; /* Asegúrate de que la barra negra esté sobre la imagen */
+}
+
+.menu-black .navbar {
+    flex-grow: 1; /* Asegura que la barra de navegación ocupe el espacio restante */
+}
+
+.menu-black .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center; /* Centra los elementos horizontalmente */
+    padding: 0; /* Elimina el padding */
+    margin: 0; /* Elimina márgenes */
+    height: 100%; /* Asegura que ocupe el alto completo de la barra */
+    align-items: center; /* Centra verticalmente los elementos */
+}
+
+.menu-black .navbar ul li {
+    margin: 0 15px; /* Espaciado horizontal entre los elementos */
+}
+
+.menu-black .navbar ul li a {
+    font-size: 13px;
+    color: #bdbdbd;
+    text-transform: uppercase;
+    text-decoration: none; /* Elimina el subrayado */
+    padding: 0 10px; /* Añadir padding horizontal para más espacio */
+    line-height: normal; /* Remueve line-height para mejor alineación */
+}
+
+.CB {
+    font-size: 13px;
+    color: #f6cf3c;
+    text-transform: uppercase;
+    text-decoration: none; /* Elimina el subrayado */
+    padding: 0 10px; /* Añadir padding horizontal para más espacio */
+    line-height: normal; /* Remueve line-height para mejor alineación */
+    border-bottom: 5px solid #f6cf3c; /* Línea gruesa amarilla en la parte inferior */
+    line-height: 30px;
+}
+
+/* Estilos para el logo */
+.logo {
+    position: absolute;
+    width: 50px; /* Ajusta el ancho del logo */
+    left: 150px;
+    top: 3px;
+}
+
+/* Estilos logos Facebook, Instagram */
+.icon {
+    width: 15px; /* Ajusta el ancho del logo */
+    margin: 0 15px; /* Espaciado horizontal */
+    vertical-align: middle; /* Alineación vertical */
+}
+
+/* Estilos para el contenedor de búsqueda */
+.search-container {
+    position: relative; /* Necesario para posicionar el icono */
+}
+
+/* Estilos para el input de búsqueda */
+input[type="text"] {
+    border: none; /* Elimina el borde */
+    border-radius: 15px; /* Radio de redondeo */
+    padding: 2px 5px; /* Espaciado interno */
+    width: 155px; /* Ancho del input */
+    height: 20px; /* Ajusta la altura */
+    font-size: 11px; /* Tamaño de la fuente */
+    outline: none; /* Elimina el borde de enfoque predeterminado */
+}
+
+/* Estilos para el icono de búsqueda */
+.search-icon {
+    position: absolute;
+    right: 10px; /* Espaciado desde el borde derecho */
+    top: 50%; /* Centra verticalmente la imagen */
+    transform: translateY(-50%); /* Ajuste para centrar */
+    width: 12px; /* Tamaño de la imagen */
+    height: 12px; /* Tamaño de la imagen */
+}
+
+/* Estilos de la barra de chat */
+.chat-container {
+    position: fixed; /* Fija el contenedor en la parte inferior */
+    bottom: 20px; /* Espacio desde la parte inferior */
+    left: 25%; /* Alinea a la izquierda */
+    right: 25%; /* Alinea a la derecha */
+    margin: 0; /* Elimina margen */
+    padding: 10px; /* Espaciado interno del contenedor */
+    background-color: rgba(241, 241, 241, 0.9); /* Fondo con un poco de transparencia */
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 20; /* Asegura que el chat esté por encima de la imagen y las barras */
+    
+}
+
+.chat-input {
+    display: flex; /* Usar flexbox para alineación */
+    overflow: hidden; /* Elimina bordes fuera del contenedor */
+    background-color: white; /* Fondo blanco para el contenedor */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Sombra para dar profundidad */
+    height: 40px; /* Altura del contenedor del input */
+    width: 100%; /* Asegura que ocupe todo el ancho del contenedor */
+    border-radius: 15px; /* Bordes redondeados para todo el contenedor */
+}
+
+#chat-form {
+    display: flex; /* Usar flexbox para el formulario */
+    width: 100%; /* Asegura que el formulario ocupe todo el ancho del contenedor */
+    margin: 0; /* Elimina márgenes */
+    padding: 0; /* Elimina padding */
+}
+
+.chat-input input {
+    flex: 1; /* Toma todo el espacio disponible */
+    padding: 10px; /* Espaciado interno */
+    border: none; /* Elimina el borde */
+    border-radius: 15px 0 0 15px; /* Bordes redondeados a la izquierda */
+    font-size: 16px; /* Tamaño de la fuente */
+    outline: none; /* Elimina el borde de enfoque predeterminado */
+    height: 100%; /* Asegúrate de que el input ocupe toda la altura del contenedor */
+}
+
+.chat-input button {
+    padding: 0 15px; /* Espaciado horizontal */
+    border: none; /* Elimina el borde del botón */
+    background-color: #f6cf3c; /* Color del botón */
+    color: #000; /* Color del texto del botón */
+    border-radius: 0 15px 15px 0; /* Bordes redondeados a la derecha */
+    cursor: pointer; /* Cambia el cursor al pasar por encima */
+    height: 100%; /* Asegúrate de que el botón ocupe toda la altura del contenedor */
+    margin-left: 0; /* Sin margen */
+    min-width: 70px; /* Añadir un ancho mínimo para el botón */
+}
+
+
+.chat-input button:hover {
+    background-color: #e5b83d; /* Color del botón al pasar el ratón */
+}
+
+.text-chat {
+    position: relative;
+}
+
+.arrow-animation {
+    font-size: 40px; /* Tamaño de la flecha */
+    color: white; /* Color de la flecha */
+    animation: bounce 0.5s infinite alternate; /* Animación de rebote */
+    margin: 10px 0; /* Espaciado alrededor de la flecha */
+}
+
+.input-message {
+    border-radius: 20px; /* Bordes redondos */
+    padding: 10px; /* Espaciado interno */
+    border: 1px solid #ccc; /* Color del borde */
+}
+
+.input-message:focus {
+    border-color: #007bff; /* Color del borde al enfocar */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Sombra al enfocar */
+}
+
+
+/* Estilo para la sección de mensajes con scroll */
+#messages {
+    display: flex;
+    flex-direction: column; /* Apila los mensajes verticalmente */
+    max-height: 515px; /* Altura máxima */
+    overflow-y: auto; /* Habilita scroll */
+    padding: 10px;
+    position: relative;
+    z-index: 101;
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    width: 100%; /* Asegúrate de que ocupe todo el ancho disponible */
+}
+
+.user-message {
+    background-color: #f6cf3c;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px 0;
+    align-self: flex-end; /* Alineación a la derecha */
+    max-width: 70%; /* Ancho máximo para el mensaje */
+    word-wrap: break-word; /* Permite que el texto se rompa */
+    display: flex; /* Usar flexbox para la alineación */
+    align-items: center; /* Centrar verticalmente el contenido */
+}
+
+.user-message::before {
+    content: '';
+    background-image: url('../img/user.png'); /* Ruta de la imagen */
+    background-size: cover;
+    width: 40px; /* Tamaño de la imagen */
+    height: 40px; /* Tamaño de la imagen */
+    margin-right: 10px; /* Espacio a la derecha de la imagen */
+    border-radius: 50%; /* Bordes redondeados para la imagen */
+    border: 3px solid black; /* Borde negro alrededor de la imagen */
+    background-color: white; /* Fondo blanco para el círculo */
+    flex-shrink: 0; /* Evita que la imagen se reduzca */
+}
+
+.bot-message {
+    background-color: #e5e5e5;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 5px 0;
+    align-self: flex-start; /* Alineación a la izquierda */
+    max-width: 70%; /* Ancho máximo para el mensaje */
+    word-wrap: break-word; /* Permite que el texto se rompa */
+    display: flex; /* Usar flexbox para la alineación */
+    align-items: center; /* Centrar verticalmente el contenido */
+}
+
+.bot-message::before {
+    content: '';
+    background-image: url('../img/cosevito.png'); /* Ruta de la imagen */
+    background-size: cover;
+    width: 40px; /* Tamaño de la imagen */
+    height: 40px; /* Tamaño de la imagen */
+    margin-right: 10px; /* Espacio a la derecha de la imagen */
+    border-radius: 50%; /* Bordes redondeados para la imagen */
+    border: 3px solid black; /* Borde negro alrededor de la imagen */
+    background-color: white; /* Fondo blanco para el círculo */
+    flex-shrink: 0; /* Evita que la imagen se reduzca */
+}
+
+
+.message-icon {
+    width: 20px; /* Ajusta el tamaño según necesites */
+    height: 20px; /* Ajusta el tamaño según necesites */
+    vertical-align: middle; /* Alineación vertical */
+    margin-right: 5px; /* Espacio entre la imagen y el texto */
+}
+
+/* Estilo de la barra de desplazamiento */
+#messages::-webkit-scrollbar {
+    width: 10px; /* Ancho de la barra de desplazamiento */
+}
+
+/* Estilo del "thumb" (parte que se mueve) */
+#messages::-webkit-scrollbar-thumb {
+    background-color: #f6cf3c; /* Color del thumb */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+/* Estilo del track (parte fija) */
+#messages::-webkit-scrollbar-track {
+    background-color: #e0e0e0; /* Color del track */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+#wait-message {
+    position: absolute; /* O 'relative' si no quieres que esté fijo */
+    top: calc(90% - 20px); /* Ajusta el valor para moverlo hacia arriba */
+    left: 50%; /* Centrado horizontalmente */
+    transform: translate(-50%, -50%); /* Ajuste para centrar */
+    z-index: 15; /* Asegura que esté por encima de otros elementos */
+    color: #000;
+    display: none; /* Oculto por defecto */
+    font-size: 24px; 
+}
+
+/* Animación de los puntos en el mensaje de espera */
+@keyframes dot-blink {
+    0% { content: ""; }
+    25% { content: "."; }
+    50% { content: ".."; }
+    75% { content: "..."; }
+    100% { content: ""; }
+}
+
+#dots::after {
+    content: "";
+    animation: dot-blink 1.5s steps(1, end) infinite; /* Animación que se repite infinitamente */
+}
+.background-image {
+    position: absolute;
+    top: 0; /* Alinea al borde superior */
+    left: 0; /* Alinea al borde izquierdo */
+    width: 100%; /* Ancho completo de la pantalla */
+    height: 100%; /* Altura completa de la pantalla */
+    object-fit: cover; /* Asegura que la imagen cubra todo el espacio */
+    z-index: 1; /* Asegura que la imagen esté detrás */
+    filter: blur(8px); /* Aplica un efecto de difuminado */
+}
