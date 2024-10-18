@@ -4,7 +4,5 @@ migrations
 templates
 static
 README.md
-data
-storage
 .env
 db.sqlite3

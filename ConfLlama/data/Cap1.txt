@@ -1,0 +1,324 @@
+1. Definiciones generales
+1. Accidente de tránsito: acción culposa cometida por los conductores de los vehículos, sus pasajeros o los peatones, al transitar por los lugares reglamentarios. En el accidente de tránsito debe estar involucrado al menos un vehículo, producirse la muerte o lesiones de personas o daños en los bienes a consecuencia de una infracción a la ley.
+
+2. Acera: vía destinada al tránsito de los peatones.
+
+3. Alcoholimetría: análisis bioquímico para determinar la presencia de alcohol en la sangre o en el aire aspirado por una persona y su cantidad.
+
+4. Alcoholemia: es el resultado obtenido con la alcoholimetría.
+
+5. Anuncio: escritura, impreso, pintura, emblema, dibujo u otro medio informativo, ubicado en la propiedad privada, cuyo propósito sea llamar la atención sobre un producto, marca, actividad comercial, negocio, servicio u otro.
+
+6. Anuncio informativo: medio informativo ubicado en derecho de vía, cuyo propósito sea informar al usuario del camino sobre servicios, actividades y destinos turísticos o de otra naturaleza que se presten en un sitio distinto de aquel donde aparezca tal anuncio.
+
+7. Autobús: vehículo destinado al transporte masivo de personas cuya capacidad sea para más de cuarenta y cuatro pasajeros sentados, independientemente de los pasajeros de pie que pueda transportar. También serán considerados como tales los vehículos similares al descrito anteriormente, que aun con una capacidad de pasajeros sentados menor a la indicada, han sido diseñados especialmente para el transporte cómodo y seguro de altas densidades de pasajeros de pie.
+
+8. Automóvil: vehículo destinado al transporte de personas, con una capacidad máxima hasta de ocho pasajeros.
+
+9. Autopista: vía de acceso restringido de cuatro o más carriles de circulación.
+
+10. Aviso: elemento de interés general, sin fines de publicidad.
+
+11. Bahía de parada de transporte público: espacio debidamente autorizado, y complementario a la estructura de la vía, en el que suben y bajan pasajeros a vehículos de transporte público.
+
+12. Bicicleta: vehículo de dos ruedas de tracción humana y accionado con pedales.
+
+13. Bicimoto: vehículo de dos ruedas con motor térmico de cilindrada no superior a 50 cc, o eléctrico de 5 kw.
+
+14. Boleta de citación: documento mediante la cual se notifica, física o electrónicamente, a una persona la infracción que se le atribuye y se le llama a comparecer ante la autoridad competente.
+
+15. Buseta: vehículo dedicado al transporte de personas con una capacidad de entre veintiséis y cuarenta y cuatro pasajeros sentados.
+
+16. Calcomanía: etiqueta adhesiva usada con fines distintivos o de control para la circulación de vehículos.
+
+17. Calzada: superficie de la vía sobre la que transitan los vehículos y que está compuesta por uno o varios carriles.
+
+18. Calles locales: vías públicas urbanas que no estén clasificadas como travesías urbanas.
+
+19. Caminos no clasificados: caminos públicos que proporcionen acceso a muy pocos usuarios, quienes sufragará sus costos de mantenimiento y mejoramiento.
+
+20. Caminos vecinales: caminos públicos que dan acceso directo a las fincas y otras unidades económicas rurales, y unen caseríos y poblados con la red vial nacional. Tienen bajos volúmenes de tránsito y una alta proporción de viajes locales de corta distancia.
+
+21. Características básicas del vehículo: marca, estilo, modelo, categoría, número de serie o chasis, número de identificación vehicular (VIN), año modelo, carrocería, capacidad, peso neto y bruto, color, número de motor, tipo de combustible, cilindrada, potencia y número de placas.
+
+22. Carretera de acceso restringido: carretera a la cual, por disposición del Ministerio de Obras Públicas y Transportes, solo se permite el acceso o la salida de vehículos y peatones en determinadas intersecciones con otros caminos públicos. Se clasificarán como tales las vías en las cuales se determine que, por razones de capacidad o seguridad, sea conveniente limitar el acceso o la salida de los vehículos.
+
+23. Carreteras primarias: red de rutas que sirven a corredores viales y que que tienen volúmenes de tránsito relativamente altos y una alta proporción de viajes internacionales, interprovinciales o de larga distancia.
+
+24. Carreteras secundarias: conectan cabeceras cantonales importantes u otros centros de población, producción o turismo que generen una cantidad considerable de viajes interregionales o intercantonales.
+
+25. Carreteras terciarias: rutas que recogen el tránsito de las carreteras primarias y secundarias. Son las vías principales para los viajes que se realicen dentro de una región o entre distritos importantes.
+
+26. Carril de circulación: parte de la calzada destinada al tránsito en una sola dirección.
+
+27. Carril central de giro a la izquierda: Se utiliza en la franja central de vías públicas urbanas, con cuatro o más carriles, como una zona de refugio que permite a los conductores realizar maniobras de giro izquierdo. Está marcado con una línea externa continua y líneas internas discontinuas.
+
+28. Cilindrada: capacidad volumétrica de un cilindro o cilindros de un motor expresada en centímetros cúbicos (cm3) o litros (l). Usualmente se representa como cc.
+
+29. Centros de inspección técnica vehicular (CIVE): ente estatal o privado que hace la inspección técnico-mecánica de vehículos y la revisión del control de emisiones.
+
+30. Ciclista: persona que conduce una bicicleta, o su pasajero.
+
+31. Ciclovía: vía o sección de la calzada destinada al tránsito de bicicletas, triciclos y peatones.
+
+32. Conductor: persona que tiene el control operativo de un vehículo y es responsable directo de él y de las infracciones que cometa.
+
+33. Conductor novato: persona que adquiera por primera vez su licencia de conducir y que no sobrepase los tres años de haberla obtenido.
+
+34. Conductor profesional: persona cuya actividad laboral principal sea la conducción de vehículos dedicados al transporte de mercancías o de personas. Debe tener una licencia tipo B-3, B-4, C, D o E. También será conductor profesional aquel que haya sido acreditado con licencia A-2, A-3, B-1 o B-2, y que haya solicitado, al momento de su expedición, el agregado P (profesional).
+
+35. Contaminantes ambientales: gases, partículas o ruidos producidos por un vehículo automotor.
+
+36. CTP: Consejo de Transporte Público.
+
+37. Cosevi: Consejo de Seguridad Vial.
+
+38. Cuña: pieza de metal, de madera o de cualquier otro material idóneo que se utilice para calzar los vehículos y asegurar su inmovilidad.
+
+39. Curva horizontal: curva circular que une los tramos rectos de una carretera en el plano horizontal.
+
+40. Curva vertical: curva parabólica que une las líneas rectas que representan el perfil de las pendientes.
+
+41. Croquis: documento descriptivo de los pormenores de un accidente de tránsito levantado en el sitio de los hechos por las autoridades.
+
+42. Decibelio o decibel: unidad de medida de la intensidad de un sonido.
+
+43. Derecho de vía: derecho que recae sobre una franja de terreno y que se destina a la construcción de obras viales en general.
+
+44. Derecho de circulación: derecho que se obtiene luego de pagar los rubros fijados por ley para la circulación de vehículos.
+
+45. Dirección electrónica vial (DEV): dirección electrónica suministrada obligatoriamente al Cosevi por todo conductor o propietario de un vehículo. En ella se le notificarán las actuaciones relacionadas con la Ley de Tránsito.
+
+46. Dispositivo oficial de control de tránsito: señal o aviso que deben acatar quienes transitan por las vías públicas.
+
+47. Equipo especial: equipo autopropulsado destinado a realizar tareas agrícolas, de obra civil y de atención de emergencias forestales o aeroportuarias.
+
+48. Espaldón u hombro: área adyacente a ambos lados de la calzada que da soporte lateral al pavimento, servir para el tránsito de peatones y proporcionar espacio para las emergencias del tránsito y el estacionamiento de vehículos.
+
+49. Estacionamiento, parqueo o aparcamiento: lugar público o privado destinado al estacionamiento de los vehículos.
+
+50. Estacionómetro o parquímetro: aparato mediante el cual se registra y cobra la tarifa que permite el estacionamiento temporal de un vehículo en ciertas vías públicas.
+
+51. Estacionar, aparcar o parquear: situar un vehículo en un lugar determinado y mantenerlo sin adelanto ni retroceso.
+
+52. Factor lambda (λ): proporción que existe entre la relación aire/combustible con la que está trabajando el motor y la relación aire/combustible teórica con la que debería trabajar para que la combustión fuera completa.
+
+53. Gran Área Metropolitana (GAM): área definida como tal mediante decreto ejecutivo. Incluye las conurbaciones de las cuatro ciudades más grandes del país (San José, Alajuela, Cartago y Heredia).
+
+54. Grúa: vehículo automotor adaptado o diseñado para trasladar y remolcar vehículos de un lado a otro.
+
+55. Infractor: persona que incumple las disposiciones de la Ley de Tránsito.
+
+56. Inmovilización de un vehículo: acto que impide la libre circulación de un vehículo mediante su retiro o el de sus placas.
+
+57. Inspección técnica vehicular (IVE): prueba mediante la cual se verifican las condiciones técnico-mecánicas y el control de emisiones de los vehículos.
+
+58. Instrumentos de medición: equipos diseñados para determinar o comprobar el margen de aceptabilidad y seguridad del objeto por medir.
+
+59. Intersección: punto en el que convergen dos o más vías y en donde los vehículos pueden virar o mantener la misma dirección.
+
+60. Letrero: cualquier sustrato, material o elemento con inscripciones o figuras que se exhiben con fines de comunicación y de interés general.
+
+61. Licencia de conducir: permiso otorgado por el Estado que faculta a una persona a conducir un vehículo durante un período determinado.
+
+62. Línea: servicio de transporte público que se presta en determinada ruta.
+
+63. Línea de barrera: línea que divide la calzada en su centro. Puede ser una línea continua blanca, amarilla o doble línea amarilla.
+
+64. Línea amarilla: se usa sobre el pavimento para separar corrientes de tránsito de sentido contrario, en líneas de borde izquierdo separados por medianeras y en algunas islas canalizadoras. Puede ser una línea fragmentada o continua. Cuando se demarca en el borde del caño, indica la prohibición de estacionamiento.
+
+65. Línea blanca: se usa para separar corrientes de tránsito en un mismo sentido, en líneas de borde en carreteras de doble sentido, en líneas de borde derecho en carreteras separadas por medianera y en algunas islas canalizadoras. Puede ser fragmentada o continua.
+
+66. Luces de freno: se emiten cuando se oprime el pedal del freno.
+
+67. Luces direccionales: las que emite un dispositivo proyector situado adelante y atrás del vehículo, de forma intermitente y que indican la dirección que se va a tomar.
+
+68. Luces para neblina: aumentan la iluminación de la vía en caso de neblina, lluvia fuerte, nubes de polvo u otras condiciones ambientales adversas.
+
+69. Luz alta: la que emiten hacia adelante los faros principales de un vehículo para obtener un largo alcance en la iluminación de la vía.
+
+70. Luz baja: iluminan la vía a corta distancia, sin ocasionar deslumbramiento o molestias a los demás conductores u otros usuarios de la vía.
+
+71. Microbús: vehículo automotor destinado al transporte de personas, cuya capacidad para pasajeros sentados oscila entre nueve y veinticinco personas.
+
+72. Motocicleta: vehículo automotor de dos o más ruedas, con motor superior a 50 cc o con una potencia superior a los 5 kW.
+
+73. Multa fija: sanción administrativa por infracción a la Ley de Tránsito, expresada en el pago de una suma determinada.
+
+74. Naturaleza constructiva: adecuación a normativas internacionales en el diseño, la producción y la comercialización de los vehículos por parte de las casas fabricantes.
+
+75. Oficial de tránsito: funcionario investido de autoridad por la Dirección General de la Policía de Tránsito.
+
+76. Opacidad: estado en el cual un material impide, parcial o totalmente, el paso de los rayos de la luz.
+
+77. Placa de matrícula: documento público expedido por el Registro Nacional que identifica externamente un vehículo.
+
+78. Parabrisas: vidrio transparente ubicado al frente de un vehículo.
+
+79. Parte oficial: documento con el que la autoridad competente informa sobre un accidente de tránsito.
+
+80. Pasajero: toda persona distinta del conductor que va dentro de un vehículo.
+
+81. Peaje: importe que se cobra al usuario por transitar con un vehículo en un tramo determinado de una vía pública.
+
+82. Paisaje natural: entorno poco a nada modificado por el ser humano y caracterizado por contar con diferentes ecosistemas. Está desprovisto de construcciones o edificaciones de cualquier clase.
+
+83. Paisaje urbano: entorno resultante del crecimiento poblacional y la formación de grandes urbes.
+
+84. Paisaje interurbano: entorno que evidencia un desarrollo humano, pero sin presentar todas las características de un paisaje urbano.
+
+85. Paisaje rural: entorno no urbanizado o de bajísima urbanización donde se realizan actividades agropecuarias y agroindustriales.
+
+86. Peatón: toda persona que transite a pie.
+
+87. Pérdida total: daño de vehículo automotor que impide su circulación por razones de seguridad.
+
+88. Permiso temporal de aprendizaje: documento que se expide, en forma temporal, para aprender a conducir vehículos automotores.
+
+89. Peso bruto: peso total del vehículo. Resulta de la suma de su peso vacío más el peso de la carga útil que puede transportar.
+
+90. Peso máximo autorizado (PMA): peso máximo autorizado para un vehículo determinado.
+
+91. Pick up: vehículo de carga liviana con motor delantero frontal y que en la parte trasera cuenta con un cajón abierto, usado especialmente para el transporte de carga.
+
+92. Plaqueta de pesos y dimensiones: placa que identifica a los remolques y semirremolques de menos de 750 kilogramos..
+
+93. Polarizado tipo espejo: material o sustancia que reduce la visibilidad hacia el interior del vehículo.
+
+94. Polarizado tipo limusina: material o sustancia de una opacidad absoluta y que no permite la visibilidad hacia el interior del vehículo.
+
+95. Reacreditación: proceso mediante el cual a un conductor, cuya licencia haya perdido vigencia por la aplicación de puntos, se le concede una nueva licencia.
+
+96. Red vial cantonal: conjunto de caminos vías que no forman parte de la red vial nacional. Su administración y mantenimiento corresponden a las municipalidades.
+
+97. Red vial nacional: conjunto de vías cuya constitución, mantenimiento y administración corresponden al MOPT.
+
+98. Reinspección técnica vehicular: prueba mediante la cual se verifican las condiciones técnico-mecánicas y el control de emisiones de los vehículos automotores que no aprobaron la IVE.
+
+99. Remolque liviano: vehículo sin tracción propia, cuyo PMA no sobrepasa los 750 kg.
+
+100. Remolque o semirremolque pesado: vehículo sin tracción propia, cuyo PMA sobrepasa los 750 kg.
+
+101. Rodamiento: desplazamiento de los vehículos por las vías públicas.
+
+102. Rótulo: medio informativo (rótulo, etc.), ubicado en la propiedad privada, cuyo propósito sea la publicidad comercial o llamar la atención sobre un producto o servicios que se ofrezca en el mismo sitio en que está ubicado.
+
+103. Ruta: trayecto que recorren, entre dos puntos llamados terminales, los vehículos de transporte público autorizados por el Consejo de Transporte Público.
+
+104. Seguridad activa: conjunto de mecanismos o dispositivos destinado a evitar que un vehículo sufra un accidente.
+
+105. Seguridad pasiva: conjunto de accesorios, mecanismos o dispositivos que, ante un accidente, está destinado a proteger la integridad física de los ocupantes del vehículo o a minimizar las lesiones.
+
+106. Semáforo: dispositivo que mediante luces asigna, de forma alternativa, el derecho de paso a cada movimiento o grupo de movimientos que confluyen en una intersección.
+
+107. Semirremolque: vehículo sin tracción propia construido para ser acoplado a un tractocamión, de tal manera que una parte sustancial de su peso y de su carga repose parcialmente sobre este.
+
+108. Señal horizontal: marca de pintura de color amarillo o blanco que se graba sobre la superficie de rodamiento para regular la circulación de los vehículos.
+
+109. Señal vertical: dispositivo de tránsito que se adhiere al suelo y que es colocado de forma vertical para informar, regular o prevenir a los usuarios.
+
+110. Servicio especial: el que se presta de forma temporal con autobuses, busetas y microbuses, sin tener itinerario fijo. Debe contar con autorización del Consejo de Transporte Público.
+
+111. Servicio especial estable de taxi: servicio público de transporte remunerado de personas dirigido a un grupo cerrado de usuarios y que satisface una demanda limitada, residual, exclusiva y estable.
+
+112. Sistema de retención infantil: dispositivos que protegen la seguridad de los menores de edad, en cualquier tipo de viaje.
+
+113. Sistema de tránsito: conjunto de carreteras de uso público o privadas, calles, zonas de paso peatonal y demás ámbitos en que se desplazan los vehículos y los peatones.
+
+114. Testigo de llanta: elevación dentro de los canales de agua de una llanta mediante el cual se visualiza su desgaste.
+
+115. Taxi: vehículo automotor destinado al transporte remunerado de personas.
+
+116. Taxímetro: instrumento que se utiliza en los taxis para determinar el precio del servicio prestado e indicar la suma que debe pagar el usuario.
+
+117. Transitar: traslado, circulación o desplazamiento de personas, vehículos, mercancías, carga o semovientes sobre las vías públicas.
+
+118. Transporte de carga limitada o taxi carga: servicio de transporte público de carga realizado por medio de vehículos de carga autorizados.
+
+119. Transporte público de grúa o taxi grúa: servicio de transporte público de grúa realizado por medio de vehículos grúa.
+
+120. Transporte público de personas: servicio de traslado público de pasajeros realizado por medio de autobuses, busetas, microbuses, taxis u otros vehículos autorizados.
+
+121. UTV: vehículo utilitario todo terreno tipo “side by side” de cuatro o más ruedas, conocidos como mulas.
+
+122. Vehículo: medio de transporte usado para trasladar personas o bienes por la vía pública.
+
+123. Vehículo abandonado: vehículo dejado en la vía pública por un período de más de veinticuatro horas.
+
+124. Vehículo articulado: vehículo de carga compuesto por un cabezal y uno o dos semirremolques que son arrastrados por el primero.
+
+125. Vehículo automotor: vehículo de transporte terrestre de propulsión propia sobre dos o más ruedas y que no transita sobre rieles.
+
+126. Vehículo de carga liviana: vehículo automotor de transporte de carga, con peso máximo autorizado inferior a ocho toneladas.
+
+127. Vehículo de carga pesada: vehículo de transporte de carga, con peso máximo autorizado mayor de ocho toneladas.
+
+128. Vehículo de tránsito lento: el que, en un lugar y tiempo dados, avanza a una velocidad inferior a la normal de la restante corriente de tránsito.
+
+129. Vehículos de emergencia autorizados: vehículos para combatir incendios, policiales, ambulancias y otros.
+
+130. Velocidad de arrastre: velocidad constante a la que avanzan los vehículos automotores sobre una pendiente ascendente, una vez que han agotado su capacidad de aceleración.
+
+131. Vehículo rústico: vehículo automotor construido especialmente para transitar en zonas rurales, por caminos de difícil acceso. Posee tracción delantera y trasera, y un peso bruto mínimo de 500 kg.
+
+132. Vía: calle, camino o carretera por donde transitan los vehículos.
+
+133. Vía exclusiva: vía destinada solo para el tránsito de vehículos dedicados a una actividad determinada.
+
+134. Vía pública: toda vía por la que haya libre circulación.
+
+135. Virar: cambiar la dirección del vehículo en su trayectoria.
+
+136. Visera: franja superior que se coloca en el parabrisas de un vehículo. Ayuda a protegerse de la luz del sol
+
+137. Zona de paso: zona de una vía pública demarcada para el cruce de peatones.
+
+138. Zona de seguridad: zona de paso regulada por semáforos que permite el paso de peatones y vehículos.
+
+2. Aspectos generales del tránsito y la seguridad vial
+2.1 Antecedentes históricos
+- Se tienen noticias de que el primer vehículo que circuló por San José lo hizo en 1912. En 1920 se publicó el primer Código de Circulación, lo que puso a Costa Rica en una posición líder en seguridad vial en Latinoamérica.
+
+- A inicios de la década del setenta, comienza un crecimiento inesperado en el volumen de los automóviles en el país, con una consecuente alza en los accidentes de tránsito. Esto llevó a la promulgación de dos leyes, las cuales definieron un sistema totalmente novedoso para enfrentar ese problema: la Ley 5930: Ley de Tránsito, en 1976; y la Ley 6324: Ley de Administración Vial, en 1979. En la década de los ochentas se convierte en un aumento explosivo, lo cual se traduce en la elaboración de la Ley de Transito por Vías Publicas Terrestres , 7331del 22 de abril de 1993 y sus reformas que sustituyó a la 5930 de 1976, luego obliga a el establecimiento de la Ley de Tránsito por Vías Publicas Terrestres y Seguridad Vial Ley 9078 del 26 de octubre de 2012 y su reforma 9064.
+
+2.2 El tránsito y los tres elementos de la conducción.
+El tránsito es un sistema integrado por tres componentes:
+
+El ser humano
+El vehículo
+La vía y su entorno
+
+Entre los tres conforman lo que se conoce como “trilogía vial”. Al ser un sistema integrado, cualquier falla o deficiencia en alguno de estos elementos repercute en el normal desplazamiento por la vía pública, es decir, en la circulación. Esto resultaría en un hecho que atenta contra la seguridad vial.
+
+El elemento más importante de la circulación son los conductores (factor humano), ya que el movimiento de los vehículos en la carretera depende fundamentalmente de ellos.
+
+
+
+2.3 ¿En qué se diferencia el tránsito del transporte?
+El tránsito es “la acción de desplazarse o trasladarse de un lugar a otro”. En cambio, transporte es “la acción de trasladar una persona o cosa de un lugar a otro”.
+
+Todo transporte implica ir o pasar de un punto a otro, es decir, circular. Por lo tanto, el concepto de transitar es más amplio, pues comprende el transporte y la circulación.
+
+
+
+3. ¿Qué es la seguridad vial?
+Es “la disciplina que estudia y aplica las acciones y mecanismos tendientes a garantizar el buen funcionamiento de la circulación en la vía pública”. Su objetivo primordial es prevenir accidentes de tránsito. Sin embargo, también engloba los siguientes:
+
+Los 8 objetivos de la Seguridad Vial son:
+
+Disminuir los daños a personas y bienes de la vía pública(prevención de accidentes).
+Dar fluidez al tránsito.
+Disminuir la contaminación ambiental provocada por los vehículos y en general por el uso de la vía pública.
+Proteger y preservar la infraestructura vial.
+Conservar en el mejor estado posible el parque automotor.
+Disminuir el consumo de energía y los costos operativos de los vehículos y de las vías públicas.
+Educar al ciudadano en el uso correcto de las vías públicas y sus automotores.
+Capacitar al funcionario público que labore en materia de tránsito.
+De la relación de los conceptos de tránsito y seguridad vial llegamos a uno más amplio que, integrado con el concepto de sociedad, nos lleva a una definición integral de la materia de tránsito y seguridad vial:
+
+“Es el estudio del uso de la vía pública y de sus factores, actividades o elementos correlativos, a fin de proponer y aplicar los medios tendientes a lograr en ella una circulación y convivencia segura, fluida y placentera bajo el menor riesgo posible”, es decir se obtendría una mejor Calidad de Vida.
+
+Articulo 1 de la Ley de Tránsito.
+" Esta Ley regula la circulación por las vías públicas terrestres, de los vehículos y de las personas que intervengan en el sistema de tránsito. Así mismo regula la circulación de los vehículos en gasolineras, en estacionamientos públicos, privados de uso público o comerciales regulados por el Estado, las playas y en las vías privadas, de conformidad con artículo1 de la presente Ley.
+Se excluyen los parqueos privados de las casa de habitación y de los edificios, públicos o privados, que sean destinados únicamente a usuarios internos de dichas edificaciones, donde privará la regulación interna de dichas edificaciones. Ley 9078.
+Igualmente regula todo lo relativo a seguridad vial, a su financiamiento, al pago de impuestos, multas, derecho de tránsito y lo referente al régimen de la propiedad de los vehículos automotores, tutelado por el Registro Nacional, a excepción del régimen del tránsito ferroviario y el tránsito de semovientes en la vía pública. En estos últimos dos casos, el interesado deberá hacer valer sus derechos en el proceso civil correspondiente".
