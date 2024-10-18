@@ -3,6 +3,6 @@ __pycache__
 migrations
 templates
 static
-README.md
+
 .env
 db.sqlite3
