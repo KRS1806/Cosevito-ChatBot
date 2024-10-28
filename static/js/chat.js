@@ -1,7 +1,6 @@
 const chatSocket = new WebSocket('ws://' + window.location.host + '/ws/chat/');
-const arrow = document.getElementById('arrow'); // Referencia a la flecha
-const messagesDiv = document.getElementById('messages'); // Referencia al div de mensajes
-
+const arrow = document.getElementById('arrow');
+const messagesDiv = document.getElementById('messages');
 
 chatSocket.onmessage = function (e) {
     const data = JSON.parse(e.data);
@@ -14,27 +13,24 @@ chatSocket.onmessage = function (e) {
             </div>
         `;
     } else {
-        // Mostrar el mensaje del usuario
-        messagesDiv.innerHTML += `
-    <div class="user-message">
-        ${data.message}
-    </div>
-`;
+        // Eliminar el mensaje de espera
+        const waitMessageElement = document.getElementById('wait-message');
+        if (waitMessageElement) {
+            waitMessageElement.remove();
+        }
 
         // Mostrar la respuesta del bot
         messagesDiv.innerHTML += `
-    <div class="bot-message">
-        ${data.response}
-    </div>
-`;
+            <div class="bot-message">
+                ${formatResponse(data.response)}
+            </div>
+        `;
+        
+        arrow.style.display = 'none';
+
+        // Desplazar automáticamente hacia abajo
+        messagesDiv.scrollTop = messagesDiv.scrollHeight;
     }
-
-    // Ocultar el mensaje de espera y los elementos de bienvenida
-    document.getElementById('wait-message').style.display = 'none';
-    arrow.style.display = 'none';
-
-    // Desplazar automáticamente hacia abajo para mostrar el último mensaje
-    messagesDiv.scrollbottom = messagesDiv.scrollHeight;
 };
 
 document.getElementById('chat-form').onsubmit = function (event) {
@@ -42,14 +38,47 @@ document.getElementById('chat-form').onsubmit = function (event) {
     const messageInputDom = document.getElementById('message-input');
     const message = messageInputDom.value;
 
-    // Mostrar el mensaje de espera
-    document.getElementById('wait-message').style.display = 'block';
+    // Mostrar el mensaje del usuario
+    messagesDiv.innerHTML += `
+        <div class="user-message">
+            ${message}
+        </div>
+    `;
 
-    // Enviar el mensaje al servidor WebSocket
-    chatSocket.send(JSON.stringify({
-        'message': message
-    }));
+    // Mostrar el mensaje de espera con puntos animados
+    const waitMessage = `
+        <div id="wait-message" class="bot-message">
+            <span id="dots">•</span>
+        </div>
+    `;
+    messagesDiv.innerHTML += waitMessage;
 
+    // Animación de puntos
+    let dotCount = 1;
+    const dotsElement = document.getElementById('dots');
+    setInterval(() => {
+        if (dotCount < 3) {
+            dotCount++;
+        } else {
+            dotCount = 1; // Reinicia el conteo
+        }
+        dotsElement.textContent = '•'.repeat(dotCount); // Actualiza el contenido
+    }, 500); // Cambia los puntos cada 500 ms
+
+    // Enviar el mensaje
+    chatSocket.send(JSON.stringify({ 'message': message }));
+    
     // Limpiar el campo de entrada
     messageInputDom.value = '';
+
+    // Desplazar automáticamente hacia abajo
+    messagesDiv.scrollTop = messagesDiv.scrollHeight;
+
+    console.log("Mensaje enviado:", message); // Para depuración
+};
+
+// Función para formatear la respuesta
+function formatResponse(response) {
+    const lines = response.split(/[\.:]/).map(line => line.trim()).filter(line => line.length > 0);
+    return lines.map(line => `<p>${line.trim()}.</p>`).join('');
 };

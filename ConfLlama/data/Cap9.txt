@@ -1,156 +1,123 @@
-La conducción técnica, económica y eficiente se refiere al conjunto de técnicas aplicables en la conducción diaria del vehículo que permiten ahorrar combustible y disminuir la contaminación.
+    La conducción técnica, económica y eficiente se refiere al conjunto de técnicas aplicables en la conducción diaria del vehículo que permiten ahorrar combustible y disminuir la contaminación.
 
-Se puede asociar con el término eco-conducción, el cual busca disminuir las emisiones contaminantes, el consumo de combustible, el nivel de ruido y el estrés en el conductor.
+    Se puede asociar con el término eco-conducción, el cual busca disminuir las emisiones contaminantes, el consumo de combustible, el nivel de ruido y el estrés en el conductor.
 
-Los buenos hábitos de manejo pueden disminuir el consumo de combustible de un 10% a un 30%, lo que se traduce en muchos miles de colones.
+    Los buenos hábitos de manejo pueden disminuir el consumo de combustible de un 10% a un 30%, lo que se traduce en muchos miles de colones.
 
-Esto es especialmente importante en Costa Rica, donde se debe importar todo el petróleo que se consume. Un consumo desmedido de este recurso significa una mayor erogación de divisas, con el consecuente desajuste de las finanzas nacionales.
+    Esto es especialmente importante en Costa Rica, donde se debe importar todo el petróleo que se consume. Un consumo desmedido de este recurso significa una mayor erogación de divisas, con el consecuente desajuste de las finanzas nacionales.
 
-Una clave para ser competitivo en la industria del transporte consiste en:
+    Una clave para ser competitivo en la industria del transporte consiste en:
 
-Reducir costos de operación, la manera más fácil para hacerlo es reducir el consumo de combustible ya que es el principal gasto. (el consumo desmedido de combustible ocasiona mayor erogación de divisas y el desajuste de las finanzas nacionales que repercuten en el resto de la economía, se traduce en menos hospitales, carreteras, puertos, fuentes de empleo).
+    Reducir costos de operación, la manera más fácil para hacerlo es reducir el consumo de combustible ya que es el principal gasto. (el consumo desmedido de combustible ocasiona mayor erogación de divisas y el desajuste de las finanzas nacionales que repercuten en el resto de la economía, se traduce en menos hospitales, carreteras, puertos, fuentes de empleo).
 
-Factura petrolera: Carga financiera al estado y la sociedad.
+    Factura petrolera: Carga financiera al estado y la sociedad.
 
-El disminuir el consumo de combustibles y la cantidad de accidentes permite disminuir costos de importaciones de combustibles y repuestos al país alivianando la carga del cambio de divisas. De la misma forma el preservar el vehículo le permite recuperar un mayor precio de venta cuando quiera hacerlo.
-
-
+    El disminuir el consumo de combustibles y la cantidad de accidentes permite disminuir costos de importaciones de combustibles y repuestos al país alivianando la carga del cambio de divisas. De la misma forma el preservar el vehículo le permite recuperar un mayor precio de venta cuando quiera hacerlo.
 
 
+    La conducción eficiente empieza con el mantenimiento del vehículo:
+
+1-Cambio a tiempo del aceite.
+2-Afinado del motor.
+3-Control de la presión en los neumáticos.
+4-Revisión del desgaste de las llantas.
+5-Planificación de las rutas de viaje.
 
 
+    En cuanto al cuidado del vehículo, se recomienda la revisión diaria de la presión de las llantas, del refrigerante del radiador, del nivel de aceite del motor, de las luces y las escobillas.
 
+    Periódicamente se debe revisar el líquido de frenos, cambiar el aceite con filtros, alinear la dirección y revisar la carrocería.
 
-
-
-
-La conducción eficiente empieza con el mantenimiento del vehículo:
-
-Cambio a tiempo del aceite.
-Afinado del motor.
-Control de la presión en los neumáticos.
-Revisión del desgaste de las llantas.
-Planificación de las rutas de viaje.
-
-
-En cuanto al cuidado del vehículo, se recomienda la revisión diaria de la presión de las llantas, del refrigerante del radiador, del nivel de aceite del motor, de las luces y las escobillas.
-
-Periódicamente se debe revisar el líquido de frenos, cambiar el aceite con filtros, alinear la dirección y revisar la carrocería.
-
-En el transporte público y los camiones de carga, debe considerarse la cantidad de pasajeros permitida y los kilogramos de peso establecidos.
-
+    En el transporte público y los camiones de carga, debe considerarse la cantidad de pasajeros permitida y los kilogramos de peso establecidos.
 
 
 1. Fuerzas que intervienen en el desplazamiento del vehículo
-Conocer las fuerzas que se oponen al desplazamiento de un vehículo permite mejorar la técnica de conducción y así alcanzar el máximo rendimiento de nuestro motor.
+    
+    Conocer las fuerzas que se oponen al desplazamiento de un vehículo permite mejorar la técnica de conducción y así alcanzar el máximo rendimiento de nuestro motor.
 
-Con esto se ahorra combustible y se conservan mejor los diferentes componentes y sistemas del vehículo. A continuación se detallan esas fuerzas.
+    Con esto se ahorra combustible y se conservan mejor los diferentes componentes y sistemas del vehículo. A continuación se detallan esas fuerzas.
+    
+    1.1 Resistencia aerodinámica
+        El movimiento de un vehículo en el aire se ve afectado por la fuerza aerodinámica, que se compone por dos fuerzas menores: la fuerza de sustentación (es vertical o hacia arriba) y la fuerza de arrastre (es horizontal y opuesta al movimiento del vehículo).
 
+        La fuerza de sustentación es la que le permite a un avión despegar y mantenerse en el aire. Por ello a los vehículos de carreras se les colocan alerones para que no se eleven.
 
-
-1.1 Resistencia aerodinámica
-
-
-
-
-El movimiento de un vehículo en el aire se ve afectado por la fuerza aerodinámica, que se compone por dos fuerzas menores: la fuerza de sustentación (es vertical o hacia arriba) y la fuerza de arrastre (es horizontal y opuesta al movimiento del vehículo).
-
-La fuerza de sustentación es la que le permite a un avión despegar y mantenerse en el aire. Por ello a los vehículos de carreras se les colocan alerones para que no se eleven.
-
-La fuerza de arrastre ejerce mayor influencia sobre la marcha de un vehículo, porque es opuesta a su movimiento. Esta fuerza determina la velocidad de desplazamiento.
+        La fuerza de arrastre ejerce mayor influencia sobre la marcha de un vehículo, porque es opuesta a su movimiento. Esta fuerza determina la velocidad de desplazamiento.
 
 
-
-1.2 Resistencia al rodamiento
-La fricción causada por el contacto de las llantas con la superficie de rodamiento produce resistencia al movimiento del vehículo.
-
+    1.2 Resistencia al rodamiento
+        La fricción causada por el contacto de las llantas con la superficie de rodamiento produce resistencia al movimiento del vehículo.
 
 
-1.3 Resistencia por pendiente
+    1.3 Resistencia por pendiente
+        Consiste en la marcha sobre un recorrido hacia arriba o hacia abajo. Si es hacia arriba, la inclinación tenderá a detener el vehículo, y el motor tendrá que vencerla cambiando a una marcha más fuerte.
 
+        Si la pendiente es hacia abajo, la inclinación acelerará el vehículo; para evitar que se alcancen velocidades peligrosas, se debe bajar con la misma relación de caja con la que se sube la pendiente.
 
+    1.4 Resistencia por inercia
+        Si se pretende cambiar la velocidad de un vehículo, se debe vencer la fuerza que se opone a ese cambio, denominada fuerza de inercia, la cual depende de la masa del vehículo.
 
+         Esta fuerza genera un alto consumo de combustible y desgaste, por lo que es muy importante conocerla. Si hay frenadas repentinas, toda esa energía se disipa en forma de calor al medio ambiente, por la fricción del sistema de frenos y de los neumáticos con el pavimento.
 
+        La potencia de un vehículo se puede transformar en velocidad, como sucede en un automóvil de carreras, o en capacidad de carga, como sucede en un camión.
 
+    1.5 Fuerza centrífuga
 
-Consiste en la marcha sobre un recorrido hacia arriba o hacia abajo. Si es hacia arriba, la inclinación tenderá a detener el vehículo, y el motor tendrá que vencerla cambiando a una marcha más fuerte.
+        Cualquier cuerpo que tenga un movimiento curvilíneo está sometido a una fuerza que tiende a sacarlo de su trayectoria.
 
-Si la pendiente es hacia abajo, la inclinación acelerará el vehículo; para evitar que se alcancen velocidades peligrosas, se debe bajar con la misma relación de caja con la que se sube la pendiente.
+        En una curva demasiado cerrada, la fuerza centrífuga puede provocar un vuelco o un derrape.
 
+        El riesgo es mayor cuando se transporta un líquido en un cisterna, ya que este se desplaza hacia los costados, lo que incrementa el riesgo de vuelco.
 
+        Este fenómeno se toma en cuenta en algunas carreteras, las cuales se diseñan con una adecuada inclinación, conocida como peralte.
 
-1.4 Resistencia por inercia
-Si se pretende cambiar la velocidad de un vehículo, se debe vencer la fuerza que se opone a ese cambio, denominada fuerza de inercia, la cual depende de la masa del vehículo.
+        Esta se presenta sobre el extremo derecho de la vía cuando la curva es hacia la izquierda, y sobre el extremo izquierdo cuando la curva es hacia la derecha.
 
-Esta fuerza genera un alto consumo de combustible y desgaste, por lo que es muy importante conocerla. Si hay frenadas repentinas, toda esa energía se disipa en forma de calor al medio ambiente, por la fricción del sistema de frenos y de los neumáticos con el pavimento.
+        Con el peralte solo se contrarresta el efecto de la fuerza centrífuga, no se elimina, por lo que debemos siempre tomar esas curvas con precaución.
 
-La potencia de un vehículo se puede transformar en velocidad, como sucede en un automóvil de carreras, o en capacidad de carga, como sucede en un camión.
-
-
-
-1.5 Fuerza centrífuga
-
-Cualquier cuerpo que tenga un movimiento curvilíneo está sometido a una fuerza que tiende a sacarlo de su trayectoria.
-
-En una curva demasiado cerrada, la fuerza centrífuga puede provocar un vuelco o un derrape.
-
-El riesgo es mayor cuando se transporta un líquido en un cisterna, ya que este se desplaza hacia los costados, lo que incrementa el riesgo de vuelco.
-
-Este fenómeno se toma en cuenta en algunas carreteras, las cuales se diseñan con una adecuada inclinación, conocida como peralte.
-
-Esta se presenta sobre el extremo derecho de la vía cuando la curva es hacia la izquierda, y sobre el extremo izquierdo cuando la curva es hacia la derecha.
-
-Con el peralte solo se contrarresta el efecto de la fuerza centrífuga, no se elimina, por lo que debemos siempre tomar esas curvas con precaución.
-
-Si notamos que una curva no tiene peralte, debemos reducir mucho más la velocidad.
-
-
+        Si notamos que una curva no tiene peralte, debemos reducir mucho más la velocidad.
 
 2. Curvas características del motor
 
-Para una conducción técnica es importante conocer las curvas características del motor, pues permiten saber cómo se comporta el motor bajo diferentes condiciones de operación.
+    Para una conducción técnica es importante conocer las curvas características del motor, pues permiten saber cómo se comporta el motor bajo diferentes condiciones de operación.
 
-El par y la potencia son dos indicadores que nos dan información de cuánta fuerza puede generar y con qué rapidez puede trabajar un motor.
+    El par y la potencia son dos indicadores que nos dan información de cuánta fuerza puede generar y con qué rapidez puede trabajar un motor.
 
-El par máximo es la máxima fuerza de giro que puede desarrollar el motor a una determinada velocidad.
+    El par máximo es la máxima fuerza de giro que puede desarrollar el motor a una determinada velocidad.
 
-Cualquier máquina térmica tiene pérdidas en su funcionamiento, principalmente por los siguientes factores:
+    Cualquier máquina térmica tiene pérdidas en su funcionamiento, principalmente por los siguientes factores:
 
-La energía que se desecha en forma de calor, tanto en el sistema de enfriamiento como por el escape. A veces se recupera una parte de esta energía, como con el tubo cargador, que aprovecha la energía de los gases resultantes de la combustión y los inyecta al motor mediante una turbina, lo que lo vuelve más eficiente, económico y potente.
-La energía se pierde por la fricción mecánica de los pistones, válvulas, bielas y demás dispositivos internos. Por ello es muy importante mantener una óptima lubricación.
+    La energía que se desecha en forma de calor, tanto en el sistema de enfriamiento como por el escape. A veces se recupera una parte de esta energía, como con el tubo cargador, que aprovecha la energía de los gases resultantes de la combustión y los inyecta al motor mediante una turbina, lo que lo vuelve más eficiente, económico y potente.
+
+    La energía se pierde por la fricción mecánica de los pistones, válvulas, bielas y demás dispositivos internos. Por ello es muy importante mantener una óptima lubricación.
 
 
 3. Diagrama de velocidades
-Una manera de conocer la buena operación de un vehículo es a través de la construcción de un diagrama de velocidades.
+    
+    Una manera de conocer la buena operación de un vehículo es a través de la construcción de un diagrama de velocidades.
 
-La velocidad a la que gira el motor no se transmite directamente a las ruedas, sino que es necesario reducirla. Esta operación la realizan la caja de velocidades y el diferencial.
+    La velocidad a la que gira el motor no se transmite directamente a las ruedas, sino que es necesario reducirla. Esta operación la realizan la caja de velocidades y el diferencial.
 
-Un diagrama de velocidades permite conocer la velocidad del vehículo en función de la relación de la caja y de las revoluciones por minuto del motor (RPM).
+    Un diagrama de velocidades permite conocer la velocidad del vehículo en función de la relación de la caja y de las revoluciones por minuto del motor (RPM).
 
-Este diagrama es una herramienta valiosa para lograr una conducción económica, así como una buena selección del vehículo, según el tipo de operación que se requiera.
+    Este diagrama es una herramienta valiosa para lograr una conducción económica, así como una buena selección del vehículo, según el tipo de operación que se requiera.
 
-También permite conocer el área de funcionamiento óptimo del motor (zona verde) y el rango en que se recomienda hacer los cambios de velocidad.
+    También permite conocer el área de funcionamiento óptimo del motor (zona verde) y el rango en que se recomienda hacer los cambios de velocidad.
 
-Diagrama de velocidad según las revoluciones por minuto RPM del motor
-
-
-
-
+    Diagrama de velocidad según las revoluciones por minuto RPM del motor
 
 4. El tacómetro o medidor de revoluciones por minutos. (RPM)
 
+    Para medir y controlar el rango económico de RPM, existe el tacómetro, el cual indica las revoluciones por minuto (RPM) a las que el motor está girando, al momento en que el conductor pisa el acelerador o cuando no lo está haciendo.
 
-Para medir y controlar el rango económico de RPM, existe el tacómetro, el cual indica las revoluciones por minuto (RPM) a las que el motor está girando, al momento en que el conductor pisa el acelerador o cuando no lo está haciendo.
+    El tacómetro análogo mide las revoluciones por minuto con una aguja que gira de izquierda a derecha con una enumeración que inicia en 1 y puede llegar a 5,7 o más o digital que funciona como un contador ascendente, descendente.
 
-El tacómetro análogo mide las revoluciones por minuto con una aguja que gira de izquierda a derecha con una enumeración que inicia en 1 y puede llegar a 5,7 o más o digital que funciona como un contador ascendente, descendente.
+    Ralentí: Es el mínimo de rpm del motor encendido sin acelerar.
 
-Ralentí: Es el mínimo de rpm del motor encendido sin acelerar.
-
-La conducción técnica, económica y eficiente que nos puede facilitar el tacómetro consiste en mantener una oscilación entre las 1500 y las 2200 unidades rpm para un vehículo diésel, o entre 2000 y 2800 unidades rpm para uno de gasolina.
-
-
+    La conducción técnica, económica y eficiente que nos puede facilitar el tacómetro consiste en mantener una oscilación entre las 1500 y las 2200 unidades rpm para un vehículo diésel, o entre 2000 y 2800 unidades rpm para uno de gasolina.
 
 5. El cambio progresivo de velocidades
+
 Cuando se empieza a mover el vehículo, se recomienda aplicar el cambio progresivo de velocidades.
 
 Debe evitarse la sobre revolución del motor a sus máximos valores, especialmente en marchas bajas, pues esto provoca un consumo innecesario de combustible.
@@ -159,145 +126,118 @@ Al aplicar el cambio progresivo de velocidades, puede usar su propio juicio basa
 
 La clave es hacer el mejor uso de la capacidad de carga del motor, también conocida como torque.
 
-
-
 6. El manejo en ciudad y carretera
 
+    6.1 El manejo en ciudad
 
-6.1 El manejo en ciudad
+        El método de cambio progresivo es la mejor forma de conducir en la ciudad. Cuando maneje en ciudad, trate de alcanzar la relación más alta de caja de velocidades lo más pronto posible, y manténgala tanto como le sea posible.
 
+        Está bien manejar a bajas revoluciones, pues usted puede acelerar de ese nivel a uno mayor, y el motor puede hacerlo con facilidad.
 
-El método de cambio progresivo es la mejor forma de conducir en la ciudad. Cuando maneje en ciudad, trate de alcanzar la relación más alta de caja de velocidades lo más pronto posible, y manténgala tanto como le sea posible.
+        Deje que el motor baje lentamente de revoluciones antes de cambiar a una relación de velocidad más baja, y así evita operar el motor a altas revoluciones.
 
-Está bien manejar a bajas revoluciones, pues usted puede acelerar de ese nivel a uno mayor, y el motor puede hacerlo con facilidad.
+        Cuando baje la velocidad o se detiene, alterne entre el freno y la compresión del motor, siempre a bajas rpm. Esto incrementa la vida útil del sistema de frenos.
 
-Deje que el motor baje lentamente de revoluciones antes de cambiar a una relación de velocidad más baja, y así evita operar el motor a altas revoluciones.
+    6.2 El manejo en carretera
 
-Cuando baje la velocidad o se detiene, alterne entre el freno y la compresión del motor, siempre a bajas rpm. Esto incrementa la vida útil del sistema de frenos.
+        Usted puede reducir el consumo de combustible y los costos de mantenimiento en general, si mantiene su velocidad a 90 km/h.
 
+        Esa es la velocidad máxima recomendada para manejar en autopistas. A 90 km/h, un vehículo requiere 104 hp para contrarrestar la resistencia al aire, pero a 100 km/h, requiere 143 hp.
 
-
-6.2 El manejo en carretera
-
-
-Usted puede reducir el consumo de combustible y los costos de mantenimiento en general, si mantiene su velocidad a 90 km/h.
-
-Esa es la velocidad máxima recomendada para manejar en autopistas. A 90 km/h, un vehículo requiere 104 hp para contrarrestar la resistencia al aire, pero a 100 km/h, requiere 143 hp.
-
-Siempre que sea posible, mantenga la velocidad del motor a 300 rpm por debajo del rango máximo de economía establecido; así estará siempre reduciendo el consumo de su combustible.
-
-
+        Siempre que sea posible, mantenga la velocidad del motor a 300 rpm por debajo del rango máximo de economía establecido; así estará siempre reduciendo el consumo de su combustible.
 
 7. Selección adecuada del vehículo
-Al elegir un vehículo, se debe tomar en cuenta la potencia del motor y el tren motriz de acuerdo con el tipo de operación requerida.
 
-Existen vehículos doble tracción, sencilla, tracción delantera y tracción trasera.
+    Al elegir un vehículo, se debe tomar en cuenta la potencia del motor y el tren motriz de acuerdo con el tipo de operación requerida.
 
+    Existen vehículos doble tracción, sencilla, tracción delantera y tracción trasera.
 
+    Un tren motriz adecuado permitirá al operador:
 
-Un tren motriz adecuado permitirá al operador:
-
-Operar a la velocidad reglamentaria en el rango óptimo.
-Tener consumo mínimo de combustible.
-Tener potencia de reserva para rebasar vehículo o superar alguna emergencia.
-Provocar el desgaste mínimo de piezas del motor y del vehículo.
-
+        1-Operar a la velocidad reglamentaria en el rango óptimo.
+        2-Tener consumo mínimo de combustible.
+        3-Tener potencia de reserva para rebasar vehículo o superar alguna emergencia.
+        4-Provocar el desgaste mínimo de piezas del motor y del vehículo.
 
 8. Conducción económica
-Estos son algunos buenos hábitos que permiten un consumo mínimo de combustible, llantas y refacciones, mejor desempeño del motor y mayor seguridad para el operador:
+    Estos son algunos buenos hábitos que permiten un consumo mínimo de combustible, llantas y refacciones, mejor desempeño del motor y mayor seguridad para el operador:
 
-Mantener una distancia adecuada del vehículo delantero para evitar continuos frenados y eventuales colisiones.
-Apagar el motor si se va a tardar más de un minuto en marcha mínima sin movimiento.
-No permitir que sean eliminados sensores, conexiones o dispositivos del vehículo que el fabricante instaló como necesarios para un mejor desempeño.
-No conducir con los pies sobre el pedal del freno o del embrague.
-Mantener la presión de las llantas recomendada por el fabricante.
-Medir el consumo de combustible del vehículo en kilómetros recorridos por litro consumido, y procurar disminuirlo.
-Anticipar las paradas del vehículo para evitar frenadas bruscas.
-Deshacerse de todo peso extra del vehículo.
-Facilitar el frenado del vehículo mediante la técnica de la compresión.
-Conducir siempre entre los rangos económicos usando el tacómetro.
-Evitar el calentamiento previo del vehículo e iniciar la marcha tan pronto como lo encienda.
-Realizar cambios cortos de velocidad.
-Mantener una velocidad constante.
-Dejar de acelerar para bajar la velocidad.
+        1-Mantener una distancia adecuada del vehículo delantero para evitar continuos frenados y eventuales colisiones.
+        2-Apagar el motor si se va a tardar más de un minuto en marcha mínima sin movimiento.
+        3-No permitir que sean eliminados sensores, conexiones o dispositivos del vehículo que el fabricante instaló como necesarios para un mejor desempeño.
+        4-No conducir con los pies sobre el pedal del freno o del embrague.
+        5-Mantener la presión de las llantas recomendada por el fabricante.
+        6-Medir el consumo de combustible del vehículo en kilómetros recorridos por litro consumido, y procurar disminuirlo.
+        7-Anticipar las paradas del vehículo para evitar frenadas bruscas.
+        8-Deshacerse de todo peso extra del vehículo.
+        9-Facilitar el frenado del vehículo mediante la técnica de la compresión.
+        10-Conducir siempre entre los rangos económicos usando el tacómetro.
+        11-Evitar el calentamiento previo del vehículo e iniciar la marcha tan pronto como lo encienda.
+        12-Realizar cambios cortos de velocidad.
+        13-Mantener una velocidad constante.
+        14-Dejar de acelerar para bajar la velocidad.
 
+    8.1 Pie de pluma
 
-8.1 Pie de pluma
+        La cantidad de combustible que ingresa al motor es generalmente suministrada a través del acelerador. Por eso, se debe conducir con “pie de pluma”, y no con “pie de plomo”, para evitar gastos innecesarios de combustible.
 
+    8.2 Conservación de la cantidad de movimiento
+        La cantidad de movimiento (Q) es el producto de la masa (M) del vehículo por su velocidad (V). Es decir: Q = M x V.
 
-La cantidad de combustible que ingresa al motor es generalmente suministrada a través del acelerador. Por eso, se debe conducir con “pie de pluma”, y no con “pie de plomo”, para evitar gastos innecesarios de combustible.
+        La conducción técnica implica conservar constante la cantidad de movimiento. La única manera de hacerlo es mantener una velocidad constante en cada relación de la caja, lo que incide en un menor consumo de combustible.
 
+        De este principio se deriva una conducción anticipada, sobre todo en ciclo urbano, donde el conductor debe prever elementos como los semáforos y los embotellamientos.
 
+    8.3 Zona verde
 
-8.2 Conservación de la cantidad de movimiento
-La cantidad de movimiento (Q) es el producto de la masa (M) del vehículo por su velocidad (V). Es decir: Q = M x V.
+        El rendimiento óptimo de un motor se logra cuando se opera en el rango que ofrece el consumo mínimo de combustible. Este se puede observar en las curvas características que el fabricante del motor proporciona.
 
-La conducción técnica implica conservar constante la cantidad de movimiento. La única manera de hacerlo es mantener una velocidad constante en cada relación de la caja, lo que incide en un menor consumo de combustible.
-
-De este principio se deriva una conducción anticipada, sobre todo en ciclo urbano, donde el conductor debe prever elementos como los semáforos y los embotellamientos.
-
-
-
-8.3 Zona verde
-
-El rendimiento óptimo de un motor se logra cuando se opera en el rango que ofrece el consumo mínimo de combustible. Este se puede observar en las curvas características que el fabricante del motor proporciona.
-
-Lo ideal es hacer los primeros cambios antes de llegar a la zona verde y tratar de realizar los últimos cambios en esta zona. Para ello se utiliza el tacómetro.
-
-
+        Lo ideal es hacer los primeros cambios antes de llegar a la zona verde y tratar de realizar los últimos cambios en esta zona. Para ello se utiliza el tacómetro.
 
 9. El arranque: consecuencias y aprovechamiento
-Después de estar durante algunas horas apagado, el motor se enfría. Por eso, de nada sirve calentarlo sin poner el vehículo en movimiento, ya que si el motor trabaja en vacío solo consume combustible, sin ningún provecho económico.
 
-Además, se puede provocar un desgaste prematuro del motor, daños en las bujías o en los inyectores y depósitos excesivos de carbón.
+    Después de estar durante algunas horas apagado, el motor se enfría. Por eso, de nada sirve calentarlo sin poner el vehículo en movimiento, ya que si el motor trabaja en vacío solo consume combustible, sin ningún provecho económico.
 
-Para obtener un aprovechamiento real del combustible, debe iniciarse el recorrido en frío, avanzar a velocidad moderada, acelerar progresivamente y esperar a que la temperatura del motor se estabilice para demandar su total potencia.
+    Además, se puede provocar un desgaste prematuro del motor, daños en las bujías o en los inyectores y depósitos excesivos de carbón.
+
+    Para obtener un aprovechamiento real del combustible, debe iniciarse el recorrido en frío, avanzar a velocidad moderada, acelerar progresivamente y esperar a que la temperatura del motor se estabilice para demandar su total potencia.
 
 10. La Velocidad
-Para desplazarse a las velocidades económicamente óptimas, la aceleración debe hacerse gradualmente, presionando con suavidad el pedal del acelerador. Pisarlo a fondo produce hasta cuatro veces más consumo de combustible.
+    
+    Para desplazarse a las velocidades económicamente óptimas, la aceleración debe hacerse gradualmente, presionando con suavidad el pedal del acelerador. Pisarlo a fondo produce hasta cuatro veces más consumo de combustible.
 
-Si el vehículo cuenta con sistema automático para velocidad de crucero, seleccione la más adecuada a la ruta y las condiciones del tránsito y manténgala constante.
-
-
-
-
+    Si el vehículo cuenta con sistema automático para velocidad de crucero, seleccione la más adecuada a la ruta y las condiciones del tránsito y manténgala constante.
 
 11. Anticipación
-Para mantener una velocidad constante es imprescindible anticiparse a las situaciones de frenado y aceleración del tránsito.
 
-No solo se debe mirar el auto que nos precede, sino también la situación más lejana, para así reducir el uso del freno y guardar el espacio suficiente para detenerse con suavidad, acelerar o cambiar de carril.
+    Para mantener una velocidad constante es imprescindible anticiparse a las situaciones de frenado y aceleración del tránsito.
 
-Conforme nos aproximamos a una pendiente hacia arriba, se debe acelerar gradualmente antes de entrar al ángulo de ascenso.
+    No solo se debe mirar el auto que nos precede, sino también la situación más lejana, para así reducir el uso del freno y guardar el espacio suficiente para detenerse con suavidad, acelerar o cambiar de carril.
 
-No se debe pisar el acelerador a fondo para aumentar la velocidad sobre la misma pendiente; es preferible permitir que esta disminuya y cambiar a una marcha más baja.
+    Conforme nos aproximamos a una pendiente hacia arriba, se debe acelerar gradualmente antes de entrar al ángulo de ascenso.
 
-Cuando la pendiente es hacia abajo, se debe evitar acelerar y dejar que el propio peso del vehículo lo impulse.
+    No se debe pisar el acelerador a fondo para aumentar la velocidad sobre la misma pendiente; es preferible permitir que esta disminuya y cambiar a una marcha más baja.
 
-
+    Cuando la pendiente es hacia abajo, se debe evitar acelerar y dejar que el propio peso del vehículo lo impulse.
 
 12. Cambio de velocidad o marcha
 
+    Las marchas cuarta, quinta y sexta ahorran más combustible, por lo que se debe realizar el cambio a una marcha superior en cuanto el sistema motriz lo permita.
 
-Las marchas cuarta, quinta y sexta ahorran más combustible, por lo que se debe realizar el cambio a una marcha superior en cuanto el sistema motriz lo permita.
-
-En la mayoría de los vehículos se puede mantener una velocidad de 60 km/h en cuarta y hasta en quinta velocidad.
-
-
+    En la mayoría de los vehículos se puede mantener una velocidad de 60 km/h en cuarta y hasta en quinta velocidad.
 
 13. Adecuado uso de la ventilación
 
-Cuando se maneje en carretera, deben cerrarse las ventanas y usar la ventilación interior siempre que sea posible.
+    Cuando se maneje en carretera, deben cerrarse las ventanas y usar la ventilación interior siempre que sea posible.
 
-Con las ventanas abiertas, el vehículo aumenta su resistencia al aire, y por ende el consumo de combustible.
+    Con las ventanas abiertas, el vehículo aumenta su resistencia al aire, y por ende el consumo de combustible.
 
-Cuando se utiliza el aire acondicionado, se puede incrementar entre un 10% y un 15% el consumo de combustible.
+    Cuando se utiliza el aire acondicionado, se puede incrementar entre un 10% y un 15% el consumo de combustible.
 
-
-Sin embargo, podemos activarlo y desactivarlo según sean las condiciones del clima y del tránsito.
-
-
+    Sin embargo, podemos activarlo y desactivarlo según sean las condiciones del clima y del tránsito.
 
 14. Control de gastos
-Registrar los pagos que se hacen cada vez que se va a una gasolinera permite controlar el consumo de combustible. Esta práctica ayuda a reconocer anormalidades en el rendimiento por litro o galón que el vehículo pueda estar teniendo.
+    
+    Registrar los pagos que se hacen cada vez que se va a una gasolinera permite controlar el consumo de combustible. Esta práctica ayuda a reconocer anormalidades en el rendimiento por litro o galón que el vehículo pueda estar teniendo.
 
-Un vehículo que requiera afinación puede sobre consumir un 20% de combustible.
+    Un vehículo que requiera afinación puede sobre consumir un 20% de combustible.

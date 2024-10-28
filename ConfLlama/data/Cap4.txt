@@ -1,323 +1,215 @@
 1. ¿Cómo funciona un motor de combustión interna?
 
-El principio fundamental del motor es transformar la energía química del combustible en energía de movimiento o trabajo.
+    El principio fundamental del motor es transformar la energía química del combustible en energía de movimiento o trabajo.
 
-Para que un motor funcione necesita: aire, combustible y calor (chispa). El primero llega a través del filtro de aire y el segundo por los inyectores.(estos inyectores reemplazaron al carburador). Y depositan cantidades exactas de combustible.
-El aire y la gasolina entran separados y se mezclan en la cámara de combustión (cuando es inyección directa) o antes, en las válvulas (cuando es indirecta).
-El sistema de inyección funciona desde el arranque, la bomba succiona la gasolina del tanque y la lleva por la tubería hasta el motor para su combustión, el combustible debe pasar por un filtro para que llegue en buen estado a los inyectores.
-Al mismo tiempo, la batería entrega a los cilindros corriente eléctrica que salta en forma de chispa entre las bujías. La chispa detona la mezcla que que está en los cilindros y produce la explosión.
-La chispa detona la mezcla que está en el cilindro y produce la explosión.
-Por las válvulas de admisión sigue entrando mezcla regulada de combustible y aire, mientras que por las válvulas de escape salen los gases quemados.
-La parte inferior de los cilindros está tapada por un pistón (embolo) que se desliza por la fuerza de la explosión y empuja en su recorrido una barra que mueve, a su vez, un eje acodado en su extremo: el cigüeñal. Esto hace que el movimiento alternativo se vuelva rotativo y se transfiere del motor a la caja de cambios, diferencial, ejes y finalmente las llantas.
-El movimiento rotativo sale del motor por distintos elementos mecánicos como: el embrague y la caja de cambios, este movimiento se transmite a las ruedas previo pasa por el eje de transmisión.
-Así el sistema se regula con más o menor fuerza(arranque y marcha) o mayor o menor velocidad(rápida o lenta)o para adelante o en reversa.
+    Para que un motor funcione necesita: aire, combustible y calor (chispa). El primero llega a través del filtro de aire y el segundo por los inyectores.(estos inyectores reemplazaron al carburador). Y depositan cantidades exactas de combustible.
+    El aire y la gasolina entran separados y se mezclan en la cámara de combustión (cuando es inyección directa) o antes, en las válvulas (cuando es indirecta).
+    El sistema de inyección funciona desde el arranque, la bomba succiona la gasolina del tanque y la lleva por la tubería hasta el motor para su combustión, el combustible debe pasar por un filtro para que llegue en buen estado a los inyectores.
+    Al mismo tiempo, la batería entrega a los cilindros corriente eléctrica que salta en forma de chispa entre las bujías. La chispa detona la mezcla que que está en los cilindros y produce la explosión.
+    La chispa detona la mezcla que está en el cilindro y produce la explosión.
+    Por las válvulas de admisión sigue entrando mezcla regulada de combustible y aire, mientras que por las válvulas de escape salen los gases quemados.
+    La parte inferior de los cilindros está tapada por un pistón (embolo) que se desliza por la fuerza de la explosión y empuja en su recorrido una barra que mueve, a su vez, un eje acodado en su extremo: el cigüeñal. Esto hace que el movimiento alternativo se vuelva rotativo y se transfiere del motor a la caja de cambios, diferencial, ejes y finalmente las llantas.
+    El movimiento rotativo sale del motor por distintos elementos mecánicos como: el embrague y la caja de cambios, este movimiento se transmite a las ruedas previo pasa por el eje de transmisión.
+    Así el sistema se regula con más o menor fuerza(arranque y marcha) o mayor o menor velocidad(rápida o lenta)o para adelante o en reversa.
+
+
+
 2. Sistemas del vehículo
-2.1 Sistema de dirección
-Permite que el conductor pueda hacer circular el vehículo en la dirección deseada. Puede ser mecánica o hidráulica. Esta última permite un giro más suave, pues tiene una bomba que impulsa aceite.
+    2.1 Sistema de dirección
+        Permite que el conductor pueda hacer circular el vehículo en la dirección deseada. Puede ser mecánica o hidráulica. Esta última permite un giro más suave, pues tiene una bomba que impulsa aceite.
+        Para tener un óptimo funcionamiento del sistema de dirección, hay que revisar periódicamente el nivel del aceite hidráulico y la eventuales fugas.
+        Sus partes son: volante, eje de dirección, columna, caja de dirección, rótulas, barras y mangueras.
 
-Para tener un óptimo funcionamiento del sistema de dirección, hay que revisar periódicamente el nivel del aceite hidráulico y la eventuales fugas.
 
-Sus partes son: volante, eje de dirección, columna, caja de dirección, rótulas, barras y mangueras.
+    2.2 Sistema de frenos
+        Aminora la marcha del vehículo o lo detiene por completo. Se compone de dos sistemas: el de servicio y el de emergencia (de mano).
+        Algunos vehículos tienen el sistema de frenos antibloqueo (ABS), que impide que las ruedas se bloqueen durante una frenada de emergencia o sobre una superficie resbaladiza. Esto permite que el conductor mantenga el control sobre el vehículo.
+        Sus componentes son: Bomba principal, depósito de líquido, tuberías conductoras, bombas auxiliares, zapatas, pastillas, tambores, discos.
 
 
+    2.3 Sistema de suspensión y amortiguación
+        Absorbe el movimiento originado por las irregularidades de la calzada, lo cual brinda comodidad a los ocupantes del vehículo y permite una mayor estabilidad.
+        Se compone comúnmente de dos subsistemas: 
+            suspensión (ballesta, rótulas, barras de torsión, barra estabilizadora) y amortiguamiento (amortiguadores de diferentes tipos).
 
 
+    2.4 Sistema de alimentación
+        Suministra al motor la energía que le permite movilizar el vehículo.
+        Sus principales partes son: Depósito de combustible, tuberías, bomba de combustible, carburador o sistema inyector.
+        Sistema de alimentación del auto con carburador y depósito y conducto de combustible
 
 
+    2.5 Sistema de escape
+        Evacúa los gases quemados durante el proceso de combustión.
+        Los elementos básicos son: Múltiple de escape, tubo de escape, catalizador y el silenciador.
+        Sistema de escape del auto con silenciador, catalizador y conducto de escape
 
-Sistema de dirección del vehículo con juntas, rótula y caja de dirección
 
+    2.6 Sistema eléctrico
+        Es el generador de la corriente eléctrica necesaria para el funcionamiento del vehículo. Se subdivide en tres sistemas:
+            - Arranque: La batería proporciona una corriente eléctrica que llega hasta la bujía y da la chispa que inicia el movimiento de los pistones.
+            - Sistema de carga: La batería no puede suplir el voltaje y corriente indefinidamente. El alternador es la parte principal de este sistema, ya que genera corriente y recarga la batería.
+            - Alumbrado y servicios: Luces, elementos de señalización, instrumental, accesorios.
 
+   
+    2.7 Control de contaminantes
+        Pequeños dispositivos mecánicos y electrónicos colocados en distintas partes del vehículo, los cuales logran una combustión con menores niveles de contaminación ambiental.
 
-2.2 Sistema de frenos
-Aminora la marcha del vehículo o lo detiene por completo. Se compone de dos sistemas: el de servicio y el de emergencia (de mano).
 
-Algunos vehículos tienen el sistema de frenos antibloqueo (ABS), que impide que las ruedas se bloqueen durante una frenada de emergencia o sobre una superficie resbaladiza. Esto permite que el conductor mantenga el control sobre el vehículo.
+    2.8 Sistema de lubricación
+        El aceite del motor sirve para evitar el roce entre las piezas, brinda limpieza a las partes internas, funciona como antioxidante y mejora la acústica.
+        Sus componentes son: Carter, varilla medidora, bomba, aceite, filtro, tubo de distribución, tapón del tubo de aceite.
+    
 
-Sus componentes son: Bomba principal, depósito de líquido, tuberías conductoras, bombas auxiliares, zapatas, pastillas, tambores, discos.
+    2.9 Sistema de embrague
+        Separa el sistema de transmisión del motor, con lo que se realizan cambios de marcha para aumentar o disminuir la velocidad. Puede ser manual o automático. Este último es más sencillo de utilizar y se recomienda para personas a las que les cueste realizar varias tareas a la vez.
+        Sus partes principales son la horquilla, el plato de presión, el rol de empuje y el disco.
+     
 
+    2.10 Sistema de enfriamiento
+        Mantiene la temperatura ideal en el motor, evitando el sobrecalentamiento. El elemento esencial para su funcionamiento es el agua o el refrigerante (coolant).
 
 
-Sistema de frenos de un auto con freno de estacionamiento, tambor y pastillas
+    2.11 Tablero o panel de instrumentos
+        Serie de indicadores que señalan si los sistemas del vehículo están funcionando bien: marcador de velocidad, odómetro, tacómetro, control de temperatura, nivel de combustible, entre otros.
 
 
+    2.12 Llantas
+        Soportan la carga del vehículo, transmiten la fuerza impulsora y de frenado, absorben impactos y mantienen la dirección del vehículo.
+        Almacenan un volumen de aire a alta presión de entre 20 y 120 libras por pulgada cuadrada, según las exigencias del vehículo.
+        Cada día se debe revisar esa presión: si es insuficiente, la llanta se desgastará más a los lados; si es excesiva, se desgastará más en el centro.
+        También se debe revisar periódicamente que la profundidad de la ranura no alcance el testigo de la llanta. Además, las llantas deben estar bien alineadas, porque si no se desgastan más rápido y provocan un aumento en el consumo de combustible.
 
-2.3 Sistema de suspensión y amortiguación
-Absorbe el movimiento originado por las irregularidades de la calzada, lo cual brinda comodidad a los ocupantes del vehículo y permite una mayor estabilidad.
+        ¿Cómo se cambia una llanta?
+            - Buscar un lugar fuera de la carretera, seguro y plano.
+            - Colocar los triángulos de seguridad, accionar las luces de emergencia y colocarse el chaleco de seguridad.
+            - Aflojar las tuercas con la llave de ranas, en dirección contraria a las manecillas del reloj.
+            - Levantar el vehículo, colocando la gata en el lugar adecuado (consultarlo en el manual del vehículo). La llanta dañada debe quedar a unos 10 o 15 cm del suelo.
+            - Retirar las tuercas, halar la llanta hacia afuera y colocarla donde no estorbe.
+            - Alinear los orificios de la llanta de repuesto con los tornillos donde va a ser montada. Empujar la llanta hasta el fondo y colocar los tornillos. Socar bien.
+            - Bajar el vehículo con ayuda de la gata y volver a apretar bien cada una de las tuercas.
+        
+            El cambio de ruedas se hace según la tracción del vehículo (tracción delantera, trasera o en las cuatro ruedas).
 
-Se compone comúnmente de dos subsistemas: suspensión (ballesta, rótulas, barras de torsión, barra estabilizadora) y amortiguamiento (amortiguadores de diferentes tipos).
+        - Rotación de las llantas
+            Cada seis meses o de 10.000 a 15.000 kilómetros, las llantas deben ser rotadas para asegurar que se desgasten uniformemente y duren más.
 
 
+        - Testigo de desgaste
+            Es un taco de goma de 1,6 mm de grosor que va incrustado en el fondo de los canales longitudinales.
+            Cuando la banda de rodamiento llega a su nivel, la llanta ha alcanzado el límite legal de utilización y debe reemplazarse.
 
-Sistema de suspensión del auto con amortiguadores y ballesta
+        - Reencauche de las llantas
+            Solamente se reencauchan las llantas que cuenten con la inscripción “Regroovable” en su costado.
+            Normalmente son las que se utilizan en vehículos pesados, no más de 3 reencauches. El reencauche siempre debe realizarse sobre una buena base.
+            El costo de una llanta reencauchada puede llegar a 30% menos de una nueva, por lo que reduce los costos.
 
 
-
-2.4 Sistema de alimentación
-Suministra al motor la energía que le permite movilizar el vehículo.
-
-Sus principales partes son: Depósito de combustible, tuberías, bomba de combustible, carburador o sistema inyector.
-
-
-
-Sistema de alimentación del auto con carburador y depósito y conducto de combustible
-
-
-
-2.5 Sistema de escape
-Evacúa los gases quemados durante el proceso de combustión.
-
-Los elementos básicos son: Múltiple de escape, tubo de escape, catalizador y el silenciador.
-
-
-
-Sistema de escape del auto con silenciador, catalizador y conducto de escape
-
-
-
-2.6 Sistema eléctrico
-Es el generador de la corriente eléctrica necesaria para el funcionamiento del vehículo. Se subdivide en tres sistemas:
-
-Arranque: La batería proporciona una corriente eléctrica que llega hasta la bujía y da la chispa que inicia el movimiento de los pistones.
-Sistema de carga: La batería no puede suplir el voltaje y corriente indefinidamente. El alternador es la parte principal de este sistema, ya que genera corriente y recarga la batería.
-Alumbrado y servicios: Luces, elementos de señalización, instrumental, accesorios.
-
-
-Sistema eléctrico del auto con bujías, batería, interruptor y alternador
-
-
-
-2.7 Control de contaminantes
-Pequeños dispositivos mecánicos y electrónicos colocados en distintas partes del vehículo, los cuales logran una combustión con menores niveles de contaminación ambiental.
-
-
-
-2.8 Sistema de lubricación
-El aceite del motor sirve para evitar el roce entre las piezas, brinda limpieza a las partes internas, funciona como antioxidante y mejora la acústica.
-
-Sus componentes son: Carter, varilla medidora, bomba, aceite, filtro, tubo de distribución, tapón del tubo de aceite.
-
-
-
-Sistema de lubricación del auto con bomba, aceite, filtro, carter y varilla medidora
-
-
-
-2.9 Sistema de embrague
-Separa el sistema de transmisión del motor, con lo que se realizan cambios de marcha para aumentar o disminuir la velocidad. Puede ser manual o automático. Este último es más sencillo de utilizar y se recomienda para personas a las que les cueste realizar varias tareas a la vez.
-
-Sus partes principales son la horquilla, el plato de presión, el rol de empuje y el disco.
-
-
-
-Sistema de embrague del auto con horquilla, disco, rol de empuje y plato de presión
-
-
-
-2.10 Sistema de enfriamiento
-Mantiene la temperatura ideal en el motor, evitando el sobrecalentamiento. El elemento esencial para su funcionamiento es el agua o el refrigerante (coolant).
-
-
-
-Sistema de enfriamiento del auto con abanico, radiador, manguera y bomba de agua
-
-
-
-2.11 Tablero o panel de instrumentos
-Serie de indicadores que señalan si los sistemas del vehículo están funcionando bien: marcador de velocidad, odómetro, tacómetro, control de temperatura, nivel de combustible, entre otros.
-
-
-
-2.12 Llantas
-
-
-
-
-Soportan la carga del vehículo, transmiten la fuerza impulsora y de frenado, absorben impactos y mantienen la dirección del vehículo.
-
-Almacenan un volumen de aire a alta presión de entre 20 y 120 libras por pulgada cuadrada, según las exigencias del vehículo.
-
-Cada día se debe revisar esa presión: si es insuficiente, la llanta se desgastará más a los lados; si es excesiva, se desgastará más en el centro.
-
-También se debe revisar periódicamente que la profundidad de la ranura no alcance el testigo de la llanta. Además, las llantas deben estar bien alineadas, porque si no se desgastan más rápido y provocan un aumento en el consumo de combustible.
-
-
-
-¿Cómo se cambia una llanta?
-
-
-
-
-Buscar un lugar fuera de la carretera, seguro y plano.
-Colocar los triángulos de seguridad, accionar las luces de emergencia y colocarse el chaleco de seguridad.
-Aflojar las tuercas con la llave de ranas, en dirección contraria a las manecillas del reloj.
-Levantar el vehículo, colocando la gata en el lugar adecuado (consultarlo en el manual del vehículo). La llanta dañada debe quedar a unos 10 o 15 cm del suelo.
-Retirar las tuercas, halar la llanta hacia afuera y colocarla donde no estorbe.
-Alinear los orificios de la llanta de repuesto con los tornillos donde va a ser montada. Empujar la llanta hasta el fondo y colocar los tornillos. Socar bien.
-Bajar el vehículo con ayuda de la gata y volver a apretar bien cada una de las tuercas.
-
-
-Rotación de las llantas
-Cada seis meses o de 10.000 a 15.000 kilómetros, las llantas deben ser rotadas para asegurar que se desgasten uniformemente y duren más.
-
-El cambio de ruedas se hace según la tracción del vehículo (tracción delantera, trasera o en las cuatro ruedas).
-
-
-
-Rotación de las ruedas en vehículo con tracción en las cuatro ruedas 4x4
-
-
-
-Testigo de desgaste
-
-
-
-Es un taco de goma de 1,6 mm de grosor que va incrustado en el fondo de los canales longitudinales.
-
-Cuando la banda de rodamiento llega a su nivel, la llanta ha alcanzado el límite legal de utilización y debe reemplazarse.
-
-
-
-
-
-Reencauche de las llantas
-
-
-Solamente se reencauchan las llantas que cuenten con la inscripción “Regroovable” en su costado.
-
-Normalmente son las que se utilizan en vehículos pesados, no más de 3 reencauches. El reencauche siempre debe realizarse sobre una buena base.
-
-El costo de una llanta reencauchada puede llegar a 30% menos de una nueva, por lo que reduce los costos.
-
-
-
-2.13 El manómetro
-Es un instrumento medidor, puede ser digital o de aguja, se emplea para medir la presión de aire en las llantas, del aceite en el circuito de lubricación, del aire o del líquido en los circuitos hidráulicos y de la gasolina.
-
-Se recomienda medir la presión de las llantas con las llantas frías.
-
-Se recomienda revisar la presión de las llantas antes de 5 kilómetros recorridos.
+    2.13 El manómetro
+        Es un instrumento medidor, puede ser digital o de aguja, se emplea para medir la presión de aire en las llantas, del aceite en el circuito de lubricación, del aire o del líquido en los circuitos hidráulicos y de la gasolina.
+        Se recomienda medir la presión de las llantas con las llantas frías.
+        Se recomienda revisar la presión de las llantas antes de 5 kilómetros recorridos.
 
 
 
 3. Seguridad del vehículo
+    3.1 Condiciones del vehículo
+        Al iniciar todos los días el uso del vehículo, se deben tomar los siguientes cuidados, con el auto en terreno plano y el motor apagado.
+        Se debe de hacer 2 tipos de revisiones del vehículo con el fin de preservar la seguridad.
+        
+        Condiciones del Vehículo (Revisar de forma DIARIA):
+         - Presión de Llantas 
+         - Mufla 
+         - Nivel de Aceite 
+         - Líquido de Frenos 
+         - Luces 
+         - Licencia al día 
+         - Escobillas
+
+        Mantenimiento del Vehículo (Revisar de forma PERIÓDICA):
+         - Revisar tensión de la faja del Abanico 
+         - Nivel de aceite de la dirección hidráulica 
+         - Cables de alta tensión, Revisar fecha de vencimiento del extintor 
+         - Desgaste de las Llantas 
+         - Refrigerante del Radiador, Revisión de luces de la carrocería 
+         - Alineamiento de la dirección 
+         - Rótulas y Escobillas.
+         - Limpiar las ventanillas.
+         - Revisar el funcionamiento de las luces.                                                             
+         - Revisar las escobillas.
+         - Revisar la bocina.                                                                     
+         - Comprobar que estén los triángulos de seguridad.
+         - Revisar el freno de seguridad (de mano).
+         - Examinar si hay en el piso alguna pérdida de líquido del vehículo.
+         - Verificar que la mufla esté bien sujeta.
+         - Verificar los niveles de aceite en el motor, líquido refrigerante en el radiador, líquido de frenos, líquido de embrague, nivel de aceite en la caja de dirección hidráulica, el agua destilada de la batería y el líquido parabrisas.
+         - Revisar que los neumáticos tengan las presión correcta y que la banda de rodamiento no alcance el testigo de la llanta.
+         - Verificar que los sistemas de freno y dirección funcionen bien.
+         - Revisar que se tenga una llanta de repuesto inflada y los implementos necesarios para el cambio.
+         - Asegurarse de tener una caja de herramientas, foco y un extintor que no esté vencido.
+         - Revisar el panel de control.
+         - Confirmar que la licencia de conducir no esté vencida.
 
 
+    3.2 Los extintores
+        El sitio más adecuado para llevarlo es debajo del asiento del pasajero o copiloto.
+        Debe ser de polvo químico, de 2kg para vehículos livianos y 5kg para vehículos pesados. no deben estar vencidos ni descargados.
+        
+        ¿Cómo apagar las llamas?
+            - Gire y hale el pasador para quitar el seguro de palanca de activación.
+            - Procure estar lo más cerca posible de la llama, accione la pistola dirigiendo el polvo químico en un ángulo de 45 grados a la base de la conflagración. No lo dirija a las flamas.
+            - Haga descargas cortas y precisas. No vacíe todo el contenido de un solo disparo.
 
 
-3.1 Condiciones del vehículo
-Al iniciar todos los días el uso del vehículo, se deben tomar los siguientes cuidados, con el auto en terreno plano y el motor apagado.
+    3.3 Uso de luces
+        Luces bajas o cortas: Se usan para no encandilar a los demás. No debe alcanzar más de 30 metros de largo.
+        Luces altas o largas: Proporcionan una zona iluminada de 100 metros, por lo que encandila a otros conductores.
+        Luces direccionales: Permiten comunicar a los demás usuarios la maniobra que se va a realizar.
+        Luces de emergencia: Son intermitentes y alertan a conductores y usuarios acerca de una condición de emergencia, ya sea mecánica o de salud del conductor.
+        Luces de marcha atrás: Se accionan automáticamente al maniobrar hacia atrás. Por lo general son de color blanco.
+        Halógenos: Los faros antiniebla delanteros dan un haz de luz ancho y plano; deben enfocar lo más bajo posible. Se diseñaron para usarlos a bajas velocidades, en condiciones de baja visibilidad provocadas por la lluvia o la neblina.
+        Luces diurnas o DRL´s: Mejoran la visibilidad de los vehículos durante el día, pero no sustituyen las luces bajas, que deben seguir usándose en la noche.
 
-Se debe de hacer 2 tipos de revisiones del vehículo con el fin de preservar la seguridad.
-
-Condiciones del Vehículo (Revisar de forma DIARIA):
-
-Presión de Llantas - Mufla - Nivel de Aceite - Líquido de Frenos - Luces - Licencia al día - Escobillas
-
-Mantenimiento del Vehículo (Revisar de forma PERIÓDICA):
-
-Revisar tensión de la faja del Abanico - Nivel de aceite de la dirección hidráulica - Cables de alta tensión, Revisar fecha de vencimiento del extintor - Desgaste de las Llantas - Refrigerante del Radiador, Revisión de luces de la carrocería - Alineamiento de la dirección - Rótulas y Escobillas.
-
-Limpiar las ventanillas.
-Revisar el funcionamiento de las luces.                                                             
-Revisar las escobillas.
-Revisar la bocina.                                                                     
-Comprobar que estén los triángulos de seguridad.
-Revisar el freno de seguridad (de mano).
-Examinar si hay en el piso alguna pérdida de líquido del vehículo.
-Verificar que la mufla esté bien sujeta.
-Verificar los niveles de aceite en el motor, líquido refrigerante en el radiador, líquido de frenos, líquido de embrague, nivel de aceite en la caja de dirección hidráulica, el agua destilada de la batería y el líquido parabrisas.
-Revisar que los neumáticos tengan las presión correcta y que la banda de rodamiento no alcance el testigo de la llanta.
-Verificar que los sistemas de freno y dirección funcionen bien.
-Revisar que se tenga una llanta de repuesto inflada y los implementos necesarios para el cambio.
-Asegurarse de tener una caja de herramientas, foco y un extintor que no esté vencido.
-Revisar el panel de control.
-Confirmar que la licencia de conducir no esté vencida.
-
-
-3.2 Los extintores
-
-
-
-
-El sitio más adecuado para llevarlo es debajo del asiento del pasajero o copiloto.
-
-Debe ser de polvo químico, de 2kg para vehículos livianos y 5kg para vehículos pesados. no deben estar vencidos ni descargados.
-
-
-
-¿Cómo apagar las llamas?
-Gire y hale el pasador para quitar el seguro de palanca de activación.
-Procure estar lo más cerca posible de la llama, accione la pistola dirigiendo el polvo químico en un ángulo de 45 grados a la base de la conflagración. No lo dirija a las flamas.
-Haga descargas cortas y precisas. No vacíe todo el contenido de un solo disparo.
-
-
-3.3 Uso de luces
-
-Luces bajas o cortas: Se usan para no encandilar a los demás. No debe alcanzar más de 30 metros de largo.
-Luces altas o largas: Proporcionan una zona iluminada de 100 metros, por lo que encandila a otros conductores.
-Luces direccionales: Permiten comunicar a los demás usuarios la maniobra que se va a realizar.
-Luces de emergencia: Son intermitentes y alertan a conductores y usuarios acerca de una condición de emergencia, ya sea mecánica o de salud del conductor.
-Luces de marcha atrás: Se accionan automáticamente al maniobrar hacia atrás. Por lo general son de color blanco.
-Halógenos: Los faros antiniebla delanteros dan un haz de luz ancho y plano; deben enfocar lo más bajo posible. Se diseñaron para usarlos a bajas velocidades, en condiciones de baja visibilidad provocadas por la lluvia o la neblina.
-Luces diurnas o DRL´s: Mejoran la visibilidad de los vehículos durante el día, pero no sustituyen las luces bajas, que deben seguir usándose en la noche.
 
 
 4. Seguridad pasiva del vehículo
-A diferencia de la seguridad activa, que sirve para prevenir accidentes, la seguridad pasiva es la que debe tener todo conductor para que, una vez que se sufra un accidente, las posibles lesiones sean menores. Algunos ejemplos son el cinturón de seguridad, las bolsas de aire y los apoyacabezas.
-
-El cinturón de seguridad disminuye en un 40% los daños físicos y 80% la tasa de mortalidad de conductores y pasajeros.
-
-
-
-Cinturón de seguridad, pélvico, torácico, estático y retráctil
-
-
-
-En las mujeres embarazadas, el cinturón debe colocarse sobre el pecho y bajo el vientre.
-
-
-
-Correcta postura para colocar el cinturón de seguridad en el embarazo
-
-
-
-En niños mayores de 12 años o niños que midan más de 1,45 metros, el punto superior del cinturón debe pasar sobre el pecho y no cerca del cuello.
-
-Correcta colocación del cinturón de seguridad para niños de más de 1,45 metros
+    A diferencia de la seguridad activa, que sirve para prevenir accidentes, la seguridad pasiva es la que debe tener todo conductor para que, una vez que se sufra un accidente, las posibles lesiones sean menores. Algunos ejemplos son el cinturón de seguridad, las bolsas de aire y los apoyacabezas.
+    Cinturón de seguridad: 
+        El cinturón de seguridad disminuye en un 40% los daños físicos y 80% la tasa de mortalidad de conductores y pasajeros.
+        Cinturón de seguridad, pélvico, torácico, estático y retráctil
+        En las mujeres embarazadas, el cinturón debe colocarse sobre el pecho y bajo el vientre.
+        En niños mayores de 12 años o niños que midan más de 1,45 metros, el punto superior del cinturón debe pasar sobre el pecho y no cerca del cuello.
 
 
 
 5. Dispositivos de seguridad para niños
-5.1 Grupos 0 y 0+
+    5.1 Grupos 0 y 0+
+        Deben viajar en el automotor en un dispositivo tipo Portabebé en sentido contrario a la circulación, en el centro del asiento de atrás, (siempre que el dispositivo pueda instalarse correctamente en esa plaza, sino se instalará en la plaza que permita su correcta instalación), si es uno solo; o bien detrás del asiento del acompañante si son dos. El de menor peso se colocará al centro y el segundo detrás del asiento del acompañante; en el caso de haber un tercero se colocará detrás del asiento del conductor.
 
+    5.2 Grupo 1
+        Deben viajar en el automotor en un dispositivo tipo silla de seguridad, que le ofrezca protección lateral ante la eventual entrada de un objeto contundente al vehículo. 
+        Este dispositivo debe ser colocado en dirección a la circulación (de frente) en el centro del asiento de atrás (siempre que el dispositivo pueda instalarse correctamente en esa plaza, sino se instalará en la plaza que permita su correcta instalación), en caso de ser un solo dispositivo. 
+        Si son dos niños en el mismo rango, el de menor peso se colocará al centro y el segundo detrás del asiento del acompañante; en el caso de haber un tercero se colocará detrás del asiento del conductor.
+    
+    5.3 Grupo 2
+        Deben viajar en el automotor en un dispositivo tipo asiento elevador o booster. 
+        Estos dispositivos permiten que el cinturón de seguridad se ajuste adecuadamente sobre clavícula y pelvis y evitan que el menor de edad se deslice por debajo del cinturón de seguridad, lo que se denomina “efecto submarino”. 
+        El dispositivo debe contar con un respaldar para ofrecer protección lateral a su ocupante ante la eventual entrada de un objeto contundente al vehículo. Este dispositivo debe estar colocado en el sentido de la circulación (de frente). 
+        Todo niño o niña en este rango debe de viajar en la parte de atrás del vehículo, en una de las posiciones laterales (siempre que el dispositivo pueda instalarse correctamente en esa plaza, sino se instalará en la plaza que permita su correcta instalación) utilizando los cinturones de tres puntos del fabricante del vehículo o bien al centro si el vehículo dispone de cinturón de tres puntos. 
+        A los vehículos originalmente previstos con cinturón de dos puntos, se les podrán hacer las adaptaciones respectivas.
 
-Dispositivo de seguridad para transportar a niños de los grupos 0 y 0+
-
-
-
-5.2 Grupo 1
-
-
-
-
-Dispositivo de seguridad para transportar a niños que se encuentren en el grupo 1
-
-
-
-5.3 Grupo 2
-
-
-Dispositivo de seguridad para transportar a niños englobados en el grupo 2
-
-
-
-5.4 Grupo 3
-
-
-Dispositivo de seguridad para transportar a niños que se encuentren en el grupo 3
+    5.4 Grupo 3
+        Deben viajar en el automotor en un dispositivo tipo asiento elevador o booster sin respaldo. 
+        Este dispositivo debe estar colocado en el sentido de la circulación (de frente). 
+        Todo niño o niña en este rango debe de viajar en la parte de atrás, en una de las posiciones laterales (siempre que el dispositivo pueda instalarse correctamente en esa plaza, sino se instalará en la plaza que permita su correcta instalación) utilizando los cinturones de tres puntos del fabricante del vehículo o bien al centro si el vehículo dispone de cinturón de tres puntos. 
+        A los vehículos originalmente previstos con cinturón de dos puntos, se les podrán hacer las adaptaciones respectivas.
+        Se debe tener en cuenta, que estos dispositivos serán utilizados por los menores de edad hasta que su talla (estatura) sea 145 centímetros.
+        Los niños podrán utilizar el cinturón de tres puntos de los vehículos, con exclusión de la obligatoriedad de uso del dispositivo tipo asiento elevador o “booster”, una vez que reúnan todas las siguientes características:
+            - Que su talla (estatura) sea superior a los 145 centímetros.
+            -  Que esté sentado con su cadera flexionada en ángulo de 90 grados o que su espalda esté pegada al respaldar del asiento.
+            -  Que sus pies se apoyen en su totalidad al piso del vehículo.
 
 
 
  6. El apoya cabezas
-Este dispositivo reduce con bastante eficacia los riesgos de daños cervicales y cerebrales. La parte superior debe estar alineada con la parte alta de la cabeza y a 4 centímetros de separación.
+    Este dispositivo reduce con bastante eficacia los riesgos de daños cervicales y cerebrales. La parte superior debe estar alineada con la parte alta de la cabeza y a 4 centímetros de separación.

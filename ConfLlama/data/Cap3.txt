@@ -1,311 +1,186 @@
-1. La vía pública
-La vía pública es el espacio dinámico donde se realizan la mayoría de las actividades humanas. Se compone por estructuras viales que permiten la circulación de conductores y peatones.
+1. La vía pública:
+    La vía pública es el espacio dinámico donde se realizan la mayoría de las actividades humanas. Se compone por estructuras viales que permiten la circulación de conductores y peatones.
+    La vía contiene: Calzada y elementos viales.
+    Hay dos tipos de vía: Vías Urbanas y Vías Rurales.
+    El ambiente: Condiciones de Clima y  Naturaleza.
+
+    1.1 Vía Urbana:
+        Consta de 4 Partes:
+            - Acera: Parte de la vía destinada exclusivamente al tránsito de peatones
+            - Calzada o superficie de rodamiento: Superficie de la vía sobre la que transitan los vehículos y que se compone por uno o varios carriles.
+            - Caño: Elemento por el que se evacuan las aguas pluviales y desechos.
+            - Borde de la acera o bordillo: Parte superior del caño donde se demarca la prohibición de estacionamiento (zona amarilla), cuando así lo requiera.
+
+
+    1.2 Vía Rural:
+        Tiene 3 Partes:
+            - Calzada: Superficie de la vía sobre la que transitan los vehículos y que se compone por uno o varios carriles
+            - Espaldón: Sección contigua a la calzada. Su finalidad es dar soporte lateral al pavimento, servir para el tránsito de peatones y generar espacios para las emergencias y estacionamiento de vehículos.
+            - Cuneta: Zanja destinada al desagüe.
+
+
+    1.3 Funciones de la vía pública:
+        Circulación: Se utiliza para que vehículos y peatones se trasladen de un lugar a otro.
+        Convivencia: En la vía pública las personas se relacionan entre sí, función que se ha deteriorado con el desarrollo de las grandes ciudades.
+        Ecológicas: Es la interrelación entre el medio ambiente y el hombre.
+
+
+
+2. Infraestructura vial:
+    Es toda aquella obra realizada por el hombre para facilitar la circulación de vehículos y personas. Sus principales elementos son:
+        Vías de circulación: Lugares de dominio público o privado, abiertos a la circulación de personas y vehículos.
+        Intersecciones: Lugar donde convergen dos o más vías y donde los vehículos pueden virar o mantener su trayectoria.
+        Señalamiento: Elementos físicos que se utilizan en la regulación del tránsito. Sirven para que el usuario se comporte con corrección y seguridad en las vías.
+        Se dividen en: 
+            - Tres Tipos Básicos: Señalamiento Vertical, Señalamiento Horizontal, Señalamiento Luminoso.
+            - Dos Tipos Complementarios:  Señalamiento Sonoro Acústico y Señalamiento Manual
+
+
+
+3. Tipos de señales:
+    3.1 Funciones del señalamiento:
+        - Regular el paso de vehículos y el sentido de las vías.
+        - Advertir al usuario sobre posibles peligros y obstáculos en la vía.
+        - Guiar al usuario en su recorrido por una vía.
+        - Informar determinadas restricciones y disposiciones legales para la circulación.
+        - Guiar a los peatones.
+        - En el mundo actual prevalecen dos sistemas de señalamiento, el sistema estadounidense y el europeo. en Costa Rica se usan ambos, pero el modelo por excelencia es el estadounidense.
+
+
+    3.2 Señalamiento vertical:
+        Son láminas ubicadas en postes o lugares elevados que informan al conductor o al peatón mediante leyendas o símbolos.
+        Se dividen en tres grupos: Señales de Reglamentación, Señales de prevención y Señales de información.
+            Señales de reglamentación:
+                Indican al conductor o peatón las obligaciones, prohibiciones o normativas que debe cumplir.
+                Por lo general tienen forma rectangular, son de fondo blanco, y tienen un símbolo compuesto por un círculo rojo que envuelve la restricción, una barra que lo cruza en caso de prohibición expresa, y una leyenda o dibujo en negro.
+                Algunos ejemplos  de las excepciones son, la señal de alto, el ceda y la de personas con discapacidad.
+            Señales de prevención:
+                Advierten al usuario la existencia real o potencial de un peligro u obstáculo, para que disminuya la velocidad y efectúe alguna maniobra que redunde en su seguridad y la de otros usuarios de la vía.
+                Se confeccionan en su mayoría como láminas en figura cuadrada, con esquinas redondeadas. Tienen el fondo amarillo. Cuando se refieren a obras que se realizan en la vía, el fondo es naranja y su colocación es temporal.
+            Señales de información:
+                Orientan al conductor o peatón en su recorrido por la vía, con información que puede ser de su interés y utilidad, como lugares, distancias, tipos de ruta o servicios.
+                En carreteras importantes o de alta velocidad, son de mayor tamaño, con fondo verde y leyenda en blanco. En carreteras no principales son de fondo blanco, con leyenda y bordes negros.
+                Las señales de información se subdividen en:
+                    Señales de Identificación: Informan el número de la ruta por donde se transita. Si es una ruta primaria, la numeración será de 1 a 99; si es una secundaria o regional, va del 100 al 299. Las terciarias van del 300 en adelante.
+                    Señales de Destino: Indican la dirección a determinado lugar, con nombres y flechas direccionales, así como la distancia en la que se encuentra.
+                    Señales de Información general: Indican el lugar donde se está en ese momento, y da información turística.
+                    Señales de Recomendación: Solicitan un manejo prudente con base en una situación específica.
+                    Señales de Servicios y turismo: Indican servicios de interés, como gasolineras y alojamientos.
+
+
+    3.3 Señalamiento horizontal:
+        Son las señales que se pintan sobre la propia calzada, borde de la acera y el espaldón.
+        Se demarca con pintura especial para tránsito.
+        Pueden ser de tres colores:
+            Pintura amarilla: Separa carriles con sentidos opuestos de circulación. Cuando se utiliza en la línea de centro,línea de barrera, carril de giro izquierdo, los bordillos, caños, islas de canalización y paradas de bus, implica prohibición de estacionamiento.
+            Pintura blanca: Se utiliza para todo aquello que implique que el tránsito se mueve en un solo sentido de circulación. También para demarcar señales específicas: ALTO, CEDA, velocidad máxima, línea de borde, flechas, paso de peatones, frente a planteles educativos, entre otros.
+            Pintura azul: El color azul en combinación con el blanco se usa para señalar espacios reservados para personas con discapacidad.
+
+
+    3.4 Tipos de líneas:
+        - Línea de centro: Línea amarilla que divide la calzada en dos secciones con diferente sentido de circulación. La línea es discontinua en los lugares donde se permite adelantar, y continua donde es prohibido hacerlo. Pueden tener como complemento captaluces (ojos de gato) de color amarillo.
+        - Línea de barrera: Líneas continuas amarillas que se utilizan en los lugares donde no se permite adelantar.
+        - Línea de vía: Líneas blancas que organizan el tránsito en carriles contiguos con una misma dirección. Son líneas discontinuas si permiten cambio de carril, y continuas si lo prohíben. Se pueden usar como complemento captaluces (ojos de gato) de color blanco.
+        - Línea de borde: Línea continua de color blanco que separa la calzada del espaldón o caño. Indica al conductor el límite de circulación del vehículo sobre la calzada y ayudando especialmente en climas lluviosos, con neblina en casos de encandilamiento. omo complemento pueden tener captaluces (ojos de gato) de color rojo, para resaltar zonas de mayor riesgo, o blanco en zonas de menor riesgo o circulación normal.
+        - Línea de canalización: Línea blanca continua para guiar en el giro al lado izquierdo. Separa los carriles principales de los que van directo o viran a la derecha.
+        - Línea de parada: Línea blanca que indica al conductor dónde debe detener el vehículo en un ALTO o un CEDA.
+        - Captaluces: Mismo color de la línea, excepto en Línea de Borde donde se usan captaluces ROJOS en zonas de mayor riesgo y BLANCOS en zonas de menor riesgo. Además existe en algunas vías un espacio en medio de los carriles contrarios que se llama CAMELLON.
+
+
+    3.5 Otras demarcaciones con pintura:
+        - Islas de canalización: Guían flujos vehiculares específicos, ordenan el tránsito en zonas conflictivas y eliminan el sobreancho de la calzada. Es prohibido circular o detenerse sobre ellas.
+        - Zonas de paso: Dos líneas paralelas blancas, transversales a la calle, que facilitan el cruce en una vía de menor afluencia peatonal.
+        - Zonas de seguridad: Franjas anchas paralelas entre sí que permiten el cruce de peatones. Se demarcan en lugares con gran tránsito peatonal y se regulan con semáforos.
+        - Zonas de estacionamiento: Líneas blancas continuas de color blanco, perpendiculares al borde de la acera o con una línea paralela a esta. Indican dónde se puede estacionar.
+        - Palabras y símbolos: Previenen situaciones, y guían y regulan el tránsito.
+            Se demarcan de color blanco: las flechas direccionales, límites de velocidad, zonas escolares cruces de ferrocarril.
+            De amarillo se demarcan: paradas de autobús, prohibición de estacionamiento y carril central exclusivo para giro a la izquierda.
+        - Carriles exclusivos para servicio público: Señalan carriles designados únicamente para vehículos de alta ocupación, como autobuses, y en ocasiones taxis.
+        - Carriles exclusivos para giros izquierdos: Zona que permite a los conductores girar a la izquierda. Este carril no debe utilizarse para circular como si fuera un carril normal, para adelantar, ni para girar en U. Se demarca con dos líneas externas continuas amarillas y dos líneas internas discontinuas amarillas, acompañadas de flechas y la palabra “Solo”.
+        - Carril reversible: Está regulado por horarios y semáforos a lo largo de su recorrido. Se demarca en la franja central de la carretera con vértices de color blanco y líneas discontinuas amarillas.
+        - Cajón o caja amarilla: Líneas amarillas perpendiculares entre sí que indican a los conductores la prohibición de bloquear una intersección.
+        - Ciclovías: Demarcaciones blancas del símbolo de la bicicleta que indican que son vías para uso exclusivo de ciclistas.
+        - Reductores de velocidad: Se utilizan cerca de zonas educativas o en zonas residenciales para que se disminuya la velocidad. En carreteras de alta velocidad se utilizan trepidadores, lomos y domos al llegar a puentes o túneles.
+        - Marcas sobre el espaldón: Son marcas blancas pintadas sobre el espaldón que dan mayor visibilidad a la parte exterior de la calzada y prohíbe estacionar en esa zona.
 
-El ambiente: Condiciones de Clima y  Naturaleza.
 
-La vía: Calzada y elementos viales.
 
-Hay dos tipos de vía: Vías Urbanas y Vías Rurales.
+4. Señalamiento luminoso:
+    4.1 Semáforo vehicular:
+        Dispositivo con juego de tres luces (roja, amarilla y verde) que se acciona de forma manual, mecánica o electrónica. Se coloca en intersecciones para regular las corrientes vehiculares y el flujo peatonal.
+        Algunos cuentan con una cuarta luz cronometrada que indica el tiempo restante para que se habilite el paso por la vía.
+        Significado de las luces:
+            - Roja: Indica al conductor que debe detenerse antes de la línea de parada.
+            - Verde: Indica al conductor que puede continuar, según las direcciones autorizadas.
+            - Amarilla: Avisa el cambio hacia la luz roja. Lo correcto es detenerse frente a la luz amarilla antes de la línea de parada; si ya no se tiene opción, se puede pasar en amarillo.
+            - Roja intermitente: Equivale a una señal de ALTO. Los vehículos deben detenerse antes de la línea de parada, y continuar si no viene ningún vehículo o si ningún peatón está cruzando la vía.
+            - Amarilla intermitente: Los vehículos deben reducir la velocidad. Equivale a señal de CEDA.
 
 
-1.1 Vía Urbana
-Consta de 4 Partes:
+    4.2 Semáforo peatonal:
+    Regula el paso de los peatones. Se colocan en ambos lados de las zonas de seguridad y se complementan con un semáforo vehicular.
+    Pueden ser accionados de forma electrónica o apretando un botón. La luz verde significa que el peatón puede cruzar la vía; la roja, que debe esperar.
 
-Acera: Parte de la vía destinada exclusivamente al tránsito de peatones
-Calzada o superficie de rodamiento: Superficie de la vía sobre la que transitan los vehículos y que se compone por uno o varios carriles.
-Caño: Elemento por el que se evacuan las aguas pluviales y desechos.
-Borde de la acera o bordillo: Parte superior del caño donde se demarca la prohibición de estacionamiento (zona amarilla), cuando así lo requiera.
 
+    4.3 Señal luminosa informativa:
+    Pueden variar sus mensajes para informar de situaciones como derrumbes, desvíos, estado del clima e incluso el cierre de un carril. Pueden ser reglamentarias, informativas y preventivas.
 
-1.2 Vía Rural
-Tiene 3 Partes:
 
-Calzada
-Espaldón: Sección contigua a la calzada. Su finalidad es dar soporte lateral al pavimento, servir para el tránsito de peatones y generar espacios para las emergencias y estacionamiento de vehículos.
-Cuneta: Zanja destinada al desagüe.
+5. Condiciones adversas:
+    Son las condiciones que están en contra del conductor al momento de guiar el vehículo. Entre las condiciones ambientales adversas más comunes en Costa Rica, están las siguientes:
+    5.1 El sol:
+        Puede encandilar al conductor y afectar su capacidad de visión, especialmente en horas de la mañana y tarde. Se recomienda contar con lentes para sol, reducir la velocidad o orientar la visera adecuadamente.
 
 
-1.3 Funciones de la vía pública
+    5.2 El viento:
+        Cuando hay fuerte viento, en ráfagas o laterales, se debe disminuir la velocidad y tomar fuertemente el volante. Además se debe estar atento a la aparición de obstáculos, como deslizamiento, árboles, arenas y hojas.
 
-Circulación: Se utiliza para que vehículos y peatones se trasladen de un lugar a otro.
-Convivencia: En la vía pública las personas se relacionan entre sí, función que se ha deteriorado con el desarrollo de las grandes ciudades.
-Ecológicas: Es la interrelación entre el medio ambiente y el hombre.
 
+    5.3 Nubes de humo o polvo:
+        Disminuyen la visibilidad del conductor. Son provocadas por incendios forestales, remolinos de viento y movimientos de tierra, entre otras circunstancias.
 
-2. Infraestructura vial
-Es toda aquella obra realizada por el hombre para facilitar la circulación de vehículos y personas. Sus principales elementos son:
 
-Vías de circulación: Lugares de dominio público o privado, abiertos a la circulación de personas y vehículos.
-Intersecciones: Lugar donde convergen dos o más vías y donde los vehículos pueden virar o mantener su trayectoria.
-Señalamiento: Elementos físicos que se utilizan en la regulación del tránsito. Sirven para que el usuario se comporte con corrección y seguridad en las vías.
-Se dividen en: 
+    5.4 Lluvia:
+        Algunos efectos de la lluvia son:
+            - Con las primeras gotas se forma sobre el parabrisas una delgada capa de polvo, hollín y agua que dificulta la visibilidad y puede impedir el correcto funcionamiento de las escobillas.
+            - Durante la lluvia fuerte, las escobillas pueden no evacuar rápidamente la cantidad de agua.
+            - La lluvia forma sobre el pavimento una película resbaladiza que hace que se pierda adherencia entre las llantas y la superficie.
+            - Por todo lo anterior, el conductor debe mantener limpio el parabrisas, tener las llantas en excelente estado, disminuir la velocidad, encender las luces bajas y tener mucha precaución.
 
-3 Tipos Básicos: Señalamiento Vertical, Señalamiento Horizontal, Señalamiento Luminoso.
 
-2 Complementarios:  Señalamiento Sonoro Acústico y Señalamiento Manual
+    5.5 Neblina:
+        Cuando hay neblina se debe:
+            - Reducir la velocidad.
+            - Encender los halógenos (si los tuviera) o la luz baja.
+            - Tratar de no acercarse mucho a la orilla de la calzada.
+            - Guiarse por las captaluces (ojos de gato), en caso de haberlos.
+            - NO usar la luz alta y siempre seguir el señalamiento guiando por la línea de borde.
 
-3. Tipos de señales
 
+    5.6 Inundaciones:
+        Si se encuentra con agua en la vía, debe:
+            - Introducir el vehículo poco a poco, controlando su movimiento.
+            - El nivel del agua no debe sobrepasar nunca la altura de las copas o aros de las llantas.
+            - Al salir, las fibras de los frenos se habrán mojado, por lo que debe secarlas manteniendo el pie sobre el acelerador y a la vez ir frenando sin detener el vehículo.
 
-3.1 Funciones del señalamiento
 
-Regular el paso de vehículos y el sentido de las vías.
-Advertir al usuario sobre posibles peligros y obstáculos en la vía.
-Guiar al usuario en su recorrido por una vía.
-Informar determinadas restricciones y disposiciones legales para la circulación.
-Guiar a los peatones.
-En el mundo actual prevalecen dos sistemas de señalamiento, el sistema estadounidense y el europeo. en Costa Rica se usan ambos, pero el modelo por excelencia es el estadounidense.
+    5.7 Hidroplaneamiento:
+        Es cuando el auto patina a causa de la cantidad de agua en la vía. Para controlar la situación, el conductor debe girar el volante en la dirección del patinazo.
 
 
 
-3.2 Señalamiento vertical
-Son láminas ubicadas en postes o lugares elevados que informan al conductor o al peatón mediante leyendas o símbolos.
+6. Condiciones de diseño:
+    6.1 Las curvas
+        Según la estructura, se clasifican en dos:
+            - Verticales: Curva parabólica que une las líneas rectas que representan el perfil de dos pendientes.
+            - Horizontales: Curva circular que une los tramos rectos de una carretera en plano horizontal (planas).
+        Para evitar que un vehículo derrape, se vuelque o colisione al entrar en una curva, se debe:
+            - Mantenerse en su carril.
+            - Reducir la velocidad antes de entrar en la curva.
+            - Nunca adelantar en curva.
+            - Acelerar de forma progresiva y no de golpe conforme se desplace dentro de la curva.
+            - En la noche, días de lluvia o neblina se debe usar la luz baja.
 
-Se dividen en tres grupos: Señales de Reglamentación, Señales de prevención y Señales de información.
 
-
-
-Señales de reglamentación
-Indican al conductor o peatón las obligaciones, prohibiciones o normativas que debe cumplir.
-
-Por lo general tienen forma rectangular, son de fondo blanco, y tienen un símbolo compuesto por un círculo rojo que envuelve la restricción, una barra que lo cruza en caso de prohibición expresa, y una leyenda o dibujo en negro.
-
-Algunos ejemplos  de las excepciones son, la señal de alto, el ceda y la de personas con discapacidad.
-
-
-Señales de prevención
-Advierten al usuario la existencia real o potencial de un peligro u obstáculo, para que disminuya la velocidad y efectúe alguna maniobra que redunde en su seguridad y la de otros usuarios de la vía.
-
-Se confeccionan en su mayoría como láminas en figura cuadrada, con esquinas redondeadas. Tienen el fondo amarillo. Cuando se refieren a obras que se realizan en la vía, el fondo es naranja y su colocación es temporal.
-
-
-Señales de información
-Orientan al conductor o peatón en su recorrido por la vía, con información que puede ser de su interés y utilidad, como lugares, distancias, tipos de ruta o servicios.
-
-En carreteras importantes o de alta velocidad, son de mayor tamaño, con fondo verde y leyenda en blanco. En carreteras no principales son de fondo blanco, con leyenda y bordes negros.
-
-Las señales de información se subdividen en:
-
-Señales de Identificación: Informan el número de la ruta por donde se transita. Si es una ruta primaria, la numeración será de 1 a 99; si es una secundaria o regional, va del 100 al 299. Las terciarias van del 300 en adelante.
-
-Señales de Destino: Indican la dirección a determinado lugar, con nombres y flechas direccionales, así como la distancia en la que se encuentra.
-
-Señales de Información general: Indican el lugar donde se está en ese momento, y da información turística.
-
-Señales de Recomendación: Solicitan un manejo prudente con base en una situación específica.
-
-Señales de Servicios y turismo: Indican servicios de interés, como gasolineras y alojamientos.
-
-
-
-
-
-
-
-3.3 Señalamiento horizontal
-Son las señales que se pintan sobre la propia calzada, borde de la acera y el espaldón.
-
-Se demarca con pintura especial para tránsito .
-
-Pueden ser de dos colores:
-
-Pintura amarilla: Separa carriles con sentidos opuestos de circulación. Cuando se utiliza en la línea de centro,línea de barrera, carril de giro izquierdo, los bordillos, caños, islas de canalización y paradas de bus, implica prohibición de estacionamiento.
-Pintura blanca: Se utiliza para todo aquello que implique que el tránsito se mueve en un solo sentido de circulación. También para demarcar señales específicas: ALTO, CEDA, velocidad máxima, línea de borde, flechas, paso de peatones, frente a planteles educativos, entre otros.
-Pintura azul: El color azul en combinación con el blanco se usa para señalar espacios reservados para personas con discapacidad.
-
-
-3.4 Tipos de líneas
-
-
-1. Línea de centro: Línea amarilla que divide la calzada en dos secciones con diferente sentido de circulación. La línea es discontinua en los lugares donde se permite adelantar, y continua donde es prohibido hacerlo.
-
-Pueden tener como complemento captaluces (ojos de gato) de color amarillo.
-
-
-
-2. Línea de barrera: Líneas continuas amarillas que se utilizan en los lugares donde no se permite adelantar.
-
-
-3. Línea de vía: Líneas blancas que organizan el tránsito en carriles contiguos con una misma dirección. Son líneas discontinuas si permiten cambio de carril, y continuas si lo prohíben.
-
-Se pueden usar como complemento captaluces (ojos de gato) de color blanco.
-
-
-Línea de vía
-
-
-4. Línea de borde: Línea continua de color blanco que separa la calzada del espaldón o caño. Indica al conductor el límite de circulación del vehículo sobre la calzada y ayudando especialmente en climas lluviosos, con neblina en casos de encandilamiento.
-
-Como complemento pueden tener captaluces (ojos de gato) de color rojo, para resaltar zonas de mayor riesgo, o blanco en zonas de menor riesgo o circulación normal.
-
-
-Línea de Borde
-
-
-5. Línea de canalización: Línea blanca continua para guiar en el giro al lado izquierdo. Separa los carriles principales de los que van directo o viran a la derecha.
-
-
-
-6. Línea de parada: Línea blanca que indica al conductor dónde debe detener el vehículo en un ALTO o un CEDA.
-
-Captaluces: Mismo color de la línea, excepto en Línea de Borde donde se usan captaluces ROJOS en zonas de mayor riesgo y BLANCOS en zonas de menor riesgo. Además existe en algunas vías un espacio en medio de los carriles contrarios que se llama CAMELLON.
-
-Otras demarcaciones con pintura
-Islas de canalización: Guían flujos vehiculares específicos, ordenan el tránsito en zonas conflictivas y eliminan el sobreancho de la calzada. Es prohibido circular o detenerse sobre ellas.
-
-Zonas de paso: Dos líneas paralelas blancas, transversales a la calle, que facilitan el cruce en una vía de menor afluencia peatonal.
-
-
-Zona de paso de la vía
-
-
-Zonas de seguridad: Franjas anchas paralelas entre sí que permiten el cruce de peatones. Se demarcan en lugares con gran tránsito peatonal y se regulan con semáforos.
-
-Zonas de estacionamiento: Líneas blancas continuas de color blanco, perpendiculares al borde de la acera o con una línea paralela a esta. Indican dónde se puede estacionar.
-
-Palabras y símbolos: Previenen situaciones, y guían y regulan el tránsito.
-
-Se demarcan de color blanco: las flechas direccionales, límites de velocidad, zonas escolares cruces de ferrocarril.
-
-De amarillo se demarcan: paradas de autobús, prohibición de estacionamiento y carril central exclusivo para giro a la izquierda.
-
-Carriles exclusivos para servicio público: Señalan carriles designados únicamente para vehículos de alta ocupación, como autobuses, y en ocasiones taxis.
-
-Carril transporte público
-
-
-Carriles exclusivos para giros izquierdos: Zona que permite a los conductores girar a la izquierda. Este carril no debe utilizarse para circular como si fuera un carril normal, para adelantar, ni para girar en U.
-
-Se demarca con dos líneas externas continuas amarillas y dos líneas internas discontinuas amarillas, acompañadas de flechas y la palabra “Solo”.
-
-
-Carril exclusivo giros izquierda
-
-
-Carril reversible: Está regulado por horarios y semáforos a lo largo de su recorrido. Se demarca en la franja central de la carretera con vértices de color blanco y líneas discontinuas amarillas.
-
-
-Carril reversible
-
-
-Cajón o caja amarilla: Líneas amarillas perpendiculares entre sí que indican a los conductores la prohibición de bloquear una intersección.
-
-
-Cajón o caja amarilla
-
-
-Ciclovías: Demarcaciones blancas del símbolo de la bicicleta que indican que son vías para uso exclusivo de ciclistas.
-
-
-Ciclovía
-
-
-Reductores de velocidad: Se utilizan cerca de zonas educativas o en zonas residenciales para que se disminuya la velocidad. En carreteras de alta velocidad se utilizan trepidadores, lomos y domos al llegar a puentes o túneles.
-
-Marcas sobre el espaldón: Son marcas blancas pintadas sobre el espaldón que dan mayor visibilidad a la parte exterior de la calzada y prohíbe estacionar en esa zona.
-
-
-4. Señalamiento luminoso
-
-
-4.1 Semáforo vehicular
-Dispositivo con juego de tres luces (roja, amarilla y verde) que se acciona de forma manual, mecánica o electrónica. Se coloca en intersecciones para regular las corrientes vehiculares y el flujo peatonal.
-
-Algunos cuentan con una cuarta luz cronometrada que indica el tiempo restante para que se habilite el paso por la vía.
-
-
-Significado de las luces:
-
-Roja: Indica al conductor que debe detenerse antes de la línea de parada.
-Verde: Indica al conductor que puede continuar, según las direcciones autorizadas.
-Amarilla: Avisa el cambio hacia la luz roja. Lo correcto es detenerse frente a la luz amarilla antes de la línea de parada; si ya no se tiene opción, se puede pasar en amarillo.
-Roja intermitente: Equivale a una señal de ALTO. Los vehículos deben detenerse antes de la línea de parada, y continuar si no viene ningún vehículo o si ningún peatón está cruzando la vía.
-Amarilla intermitente: Los vehículos deben reducir la velocidad. Equivale a señal de CEDA.
-
-
-Semáforo vehícular Semáforo de cuatro luces Semáforo para carril reversible
-
-4.2 Semáforo peatonal
-Regula el paso de los peatones. Se colocan en ambos lados de las zonas de seguridad y se complementan con un semáforo vehicular.
-
-Pueden ser accionados de forma electrónica o apretando un botón. La luz verde significa que el peatón puede cruzar la vía; la roja, que debe esperar.
-
-
-Semáforo peatonal
-
-
-
-4.3 Señal luminosa informativa
-Pueden variar sus mensajes para informar de situaciones como derrumbes, desvíos, estado del clima e incluso el cierre de un carril. Pueden ser reglamentarias, informativas y preventivas.
-
-
-Señal luminosa transitoria
-
-
-5. Condiciones adversas
-Son las condiciones que están en contra del conductor al momento de guiar el vehículo. Entre las condiciones ambientales adversas más comunes en Costa Rica, están las siguientes:
-
-
-5.1 El sol  
-Puede encandilar al conductor y afectar su capacidad de visión, especialmente en horas de la mañana y tarde. Se recomienda contar con lentes para sol, reducir la velocidad o orientar la visera adecuadamente.
-
-
-5.2 El viento
-Cuando hay fuerte viento, en ráfagas o laterales, se debe disminuir la velocidad y tomar fuertemente el volante. Además se debe estar atento a la aparición de obstáculos, como deslizamiento, árboles, arenas y hojas.
-
-
-5.3 Nubes de humo o polvo
-Disminuyen la visibilidad del conductor. Son provocadas por incendios forestales, remolinos de viento y movimientos de tierra, entre otras circunstancias.
-
-5.4 Lluvia
-Algunos efectos de la lluvia son:
-
-Con las primeras gotas se forma sobre el parabrisas una delgada capa de polvo, hollín y agua que dificulta la visibilidad y puede impedir el correcto funcionamiento de las escobillas.
-Durante la lluvia fuerte, las escobillas pueden no evacuar rápidamente la cantidad de agua.
-La lluvia forma sobre el pavimento una película resbaladiza que hace que se pierda adherencia entre las llantas y la superficie.
-Por todo lo anterior, el conductor debe mantener limpio el parabrisas, tener las llantas en excelente estado, disminuir la velocidad, encender las luces bajas y tener mucha precaución.
-
-
-5.5 Neblina
-Cuando hay neblina se debe:
-
-Reducir la velocidad.
-Encender los halógenos (si los tuviera) o la luz baja.
-Tratar de no acercarse mucho a la orilla de la calzada.
-Guiarse por las captaluces (ojos de gato), en caso de haberlos.
- NO usar la luz alta y siempre seguir el señalamiento guiando por la línea de borde.
-
-5.6 Inundaciones
-Si se encuentra con agua en la vía, debe:
-
-Introducir el vehículo poco a poco, controlando su movimiento.
-El nivel del agua no debe sobrepasar nunca la altura de las copas o aros de las llantas.
-Al salir, las fibras de los frenos se habrán mojado, por lo que debe secarlas manteniendo el pie sobre el acelerador y a la vez ir frenando sin detener el vehículo.
-
-5.7 Hidroplaneamiento
-Es cuando el auto patina a causa de la cantidad de agua en la vía. Para controlar la situación, el conductor debe girar el volante en la dirección del patinazo.
-
-
-6. Condiciones de diseño.
-
-
-6.1 Las curvas
-
-
-Según la estructura, se clasifican en dos:
-
-Verticales: Curva parabólica que une las líneas rectas que representan el perfil de dos pendientes.
-Horizontales: Curva circular que une los tramos rectos de una carretera en plano horizontal (planas).
-
-
-Para evitar que un vehículo derrape, se vuelque o colisione al entrar en una curva, se debe:
-
-Mantenerse en su carril.
-Reducir la velocidad antes de entrar en la curva.
-Nunca adelantar en curva.
-Acelerar de forma progresiva y no de golpe conforme se desplace dentro de la curva.
-En la noche, días de lluvia o neblina se debe usar la luz baja.
-
-
-6.2 La fuerza Centrífuga
-La fuerza centrifuga es la que tiende a sacar un vehículo de una curva, por lo que a la mayoría de estas se le construye un peralte, que consiste en un grado de elevación mayor en uno de los extremos de la calzada, se realiza en el sentido opuesto a la curva.
+    6.2 La fuerza Centrífuga
+        La fuerza centrifuga es la que tiende a sacar un vehículo de una curva, por lo que a la mayoría de estas se le construye un peralte, que consiste en un grado de elevación mayor en uno de los extremos de la calzada, se realiza en el sentido opuesto a la curva.

@@ -1,244 +1,174 @@
-Conducir una motocicleta requiere conocimientos, aptitudes y habilidades específicas. El riesgo de sufrir un accidente aumenta por cuatro debido a que:
+	Conducir una motocicleta requiere conocimientos, aptitudes y habilidades específicas. El riesgo de sufrir un accidente aumenta por cuatro debido a que:
 
-Las motocicletas pueden volcarse con mayor facilidad.
-El clima, el entorno y el estado de la vía dificultan la conducción de una motocicleta.
-El reducido tamaño de una motocicleta dificulta el ser vista.
-Muchos vehículos se aproximan peligrosamente a los motociclistas.
-Son más vulnerables en caso de accidente. La carrocería del motorista es su propio cuerpo.
-
+		1-Las motocicletas pueden volcarse con mayor facilidad.
+		2-El clima, el entorno y el estado de la vía dificultan la conducción de una motocicleta.
+		3-El reducido tamaño de una motocicleta dificulta el ser vista.
+		4-Muchos vehículos se aproximan peligrosamente a los motociclistas.
+		5-Son más vulnerables en caso de accidente. La carrocería del motorista es su propio cuerpo.
 
 1. Preparativos para conducir una motocicleta
-Antes de iniciar cualquier recorrido es muy importante que el conductor determine si llegará bien a su destino. Es por eso el conductor prudente siempre se asegurará de:
 
-Usar ropa y accesorios adecuados.
-Familiarizarse con la motocicleta.
-Revisar la motocicleta.
+		Antes de iniciar cualquier recorrido es muy importante que el conductor determine si llegará bien a su destino. Es por eso el conductor prudente siempre se asegurará de:
 
+			1-Usar ropa y accesorios adecuados.
+			2-Familiarizarse con la motocicleta.
+			3-Revisar la motocicleta.
 
 2. Ropa y accesorios adecuados
-2.1 El casco
 
+	2.1 El casco
 
+		Es el elemento más importante en la protección del motociclista, pues reduce el impacto por lesiones la cabeza. El casco deberá estar debidamente abrochado a la cabeza.
 
+		Existen dos tipos de casco: el abierto y el cerrado. Generalmente el casco abierto no dispone de pantalla, por lo tanto nuestros ojos estarán en contacto con corriente de aire, agua, polvo y otros elementos presentes en la vía.
 
+		La solución a ello es el uso de gafas.
 
+	2.2 El chaleco
 
-Es el elemento más importante en la protección del motociclista, pues reduce el impacto por lesiones la cabeza. El casco deberá estar debidamente abrochado a la cabeza.
+		Facilita ser vistos por otros usuario de la vía. Su uso es obligatorio.opa y accesorios adecu
 
-Existen dos tipos de casco: el abierto y el cerrado. Generalmente el casco abierto no dispone de pantalla, por lo tanto nuestros ojos estarán en contacto con corriente de aire, agua, polvo y otros elementos presentes en la vía.
+	2.3 Los guantes
 
-La solución a ello es el uso de gafas.
+		Ayudan a evitar excoriaciones, mantienen las manos calientes y permiten sujetar mejor los comandos, sin que las manos resbalen. Deben ser de cuero.
 
+	2.4 Las botas
 
-2.2 El chaleco
+		Deben poseer una barra de acero para proteger la tibia y una protección para los dedos y pies. Se desaconseja el uso de cordones, ya que pueden enredarse en los circuitos de la moto.
 
+	2.5 Rodilleras y coderas
 
+		Ante una caída evitan fracturas y reducen la posibilidad de heridas graves.
 
+	2.6 Capas
 
-Facilita ser vistos por otros usuario de la vía. Su uso es obligatorio.opa y accesorios adecu
+		Se recomienda usar una capa reflectante impermeable para proteger del agua y el frío cuando llueva.
 
+	2.7 Gafas
 
+		Es imperativo contar con gafas de patillas flexibles; las gafas de montura metálica o rígida pueden explotar y ocasionar lesiones en caso de accidente.
 
-2.3 Los guantes
+	2.8 Ropa reflectiva
 
-
-
-
-Ayudan a evitar excoriaciones, mantienen las manos calientes y permiten sujetar mejor los comandos, sin que las manos resbalen. Deben ser de cuero.
-
-
-
-2.4 Las botas
-
-
-
-
-Deben poseer una barra de acero para proteger la tibia y una protección para los dedos y pies. Se desaconseja el uso de cordones, ya que pueden enredarse en los circuitos de la moto.
-
-
-
-2.5 Rodilleras y coderas
-
-
-
-
-Ante una caída evitan fracturas y reducen la posibilidad de heridas graves.
-
-
-
-2.6 Capas
-
-
-
-
-Se recomienda usar una capa reflectante impermeable para proteger del agua y el frío cuando llueva.
-
-
-
-2.7 Gafas
-
-
-
-
-Es imperativo contar con gafas de patillas flexibles; las gafas de montura metálica o rígida pueden explotar y ocasionar lesiones en caso de accidente.
-
-
-
-2.8 Ropa reflectiva
-
-
-
-
-Todo conductor y pasajero de bicimoto, motocicleta y UTV debe utilizar siempre prendas retrorreflectivas, para que otros conductores lo vean y así evitar un accidente.
-
-
+		Todo conductor y pasajero de bicimoto, motocicleta y UTV debe utilizar siempre prendas retrorreflectivas, para que otros conductores lo vean y así evitar un accidente.
 
 3. ¿Cómo elegir una motocicleta?
-Al elegir una motocicleta debe de comprobar que consiga llegar al suelo con los dos pies estando sentado.
 
-Según su necesidad podrá optar por una motocicleta pistera, scooter, pandillera, montañera....
+	Al elegir una motocicleta debe de comprobar que consiga llegar al suelo con los dos pies estando sentado.
 
-
+	Según su necesidad podrá optar por una motocicleta pistera, scooter, pandillera, montañera....
 
 4. Control básico del vehículo
-4.1 Posición del cuerpo
 
+	4.1 Posición del cuerpo
 
+		Es importante mantener una posición natural, con los brazos ligeramente flexionados y relajados cuando sujete la empuñadura del manillar.
 
+		Conducir en una posición ergonómica reducirá el cansancio y la fatiga.
 
-Es importante mantener una posición natural, con los brazos ligeramente flexionados y relajados cuando sujete la empuñadura del manillar.
+		Debemos hacer presión suficiente sobre los puños de la manivela, para mantener con firmeza la dirección de la motocicleta y así evitar que cualquier desnivel nos haga perder el control.
 
-Conducir en una posición ergonómica reducirá el cansancio y la fatiga.
+	4.2 Los pies
 
-Debemos hacer presión suficiente sobre los puños de la manivela, para mantener con firmeza la dirección de la motocicleta y así evitar que cualquier desnivel nos haga perder el control.
+		Deberán estar sobre los estribos situados en los laterales de la motocicleta, para poder usarlos rápidamente en caso de necesitarlos. Dirija la punta de los pies hacia abajo, ya que podrían atascarse entre el camino y los estribos.
 
+	4.3 Frenado
 
+		Esta es quizá la parte más importante de todos los aspectos de conducción. Las motocicletas tienen dos frenos. Uno para la rueda delantera y otro para la trasera.
 
-4.2 Los pies
-Deberán estar sobre los estribos situados en los laterales de la motocicleta, para poder usarlos rápidamente en caso de necesitarlos. Dirija la punta de los pies hacia abajo, ya que podrían atascarse entre el camino y los estribos.
+		El freno principal es el trasero, que es el que realmente detiene la moto.
 
+		El freno delantero se usa como complemento y como ayuda para estabilizar la moto; lo ideal es usar los dos al mismo tiempo.
 
+		La frenada deberá realizarse de forma progresiva y con suavidad, excepto en casos de extrema emergencia. Al frenar deben considerarse estos aspectos:
 
-4.3 Frenado
-Esta es quizá la parte más importante de todos los aspectos de conducción. Las motocicletas tienen dos frenos. Uno para la rueda delantera y otro para la trasera.
-
-El freno principal es el trasero, que es el que realmente detiene la moto.
-
-El freno delantero se usa como complemento y como ayuda para estabilizar la moto; lo ideal es usar los dos al mismo tiempo.
-
-La frenada deberá realizarse de forma progresiva y con suavidad, excepto en casos de extrema emergencia. Al frenar deben considerarse estos aspectos:
-
-Las llantas deben estar en buen estado y con la presión correcta. Todos los componentes del sistema de frenos deben estar en perfecto estado.
-Freno motor: consiste en disminuir la velocidad reduciendo los cambios. Esto permite disminuir el esfuerzo sobre los frenos. Sirve cuando nos acerquemos a un semáforo, intersección o antes de una curva.
-Siempre hay que tener dos dedos de la mano sobre la maneta de freno y el pie sobre el pedal de freno trasero, listos para entrar en acción cuando sea necesario.
-Cuando se frena sobre suelo mojado o superficies deslizantes, se debe hacer de la forma más suave y segura posible. Debemos tener mayor tiempo de anticipación, pues en estas condiciones la distancia de frenado aumenta.
-
+			1-Las llantas deben estar en buen estado y con la presión correcta.	Todos los componentes del sistema de frenos deben estar en perfecto estado.
+			2-Freno motor: consiste en disminuir la velocidad reduciendo los cambios.	Esto permite disminuir el esfuerzo sobre los frenos.	Sirve cuando nos acerquemos a un semáforo, intersección o antes de una curva.
+			3-Siempre hay que tener dos dedos de la mano sobre la maneta de freno y el pie sobre el pedal de freno trasero, listos para entrar en acción cuando sea necesario.
+			4-Cuando se frena sobre suelo mojado o superficies deslizantes, se debe hacer de la forma más suave y segura posible.		Debemos tener mayor tiempo de anticipación, pues en estas condiciones la distancia de frenado aumenta.
 
 5. Distancia de seguridad en moto
 
+	La distancia de separación con el vehículo que nos antecede dependerá de la velocidad que llevemos, de las condiciones de la vía y del estado del vehículo. Se recomienda una distancia de seguridad de dos segundos.
 
-La distancia de separación con el vehículo que nos antecede dependerá de la velocidad que llevemos, de las condiciones de la vía y del estado del vehículo. Se recomienda una distancia de seguridad de dos segundos.
+	Esta regla es muy importante cuando se viaja en moto, pues el cuerpo del conductor se encuentra expuesto.
 
-Esta regla es muy importante cuando se viaja en moto, pues el cuerpo del conductor se encuentra expuesto.
-
-Por ello no solo es importante respetar esta distancia en marcha, sino también cuando se está detenido.
-
-
+	Por ello no solo es importante respetar esta distancia en marcha, sino también cuando se está detenido.
 
 6. Conducción con pasajero
 
+	El pasajero de la motocicleta es también un motociclista, ya que comparte mucho el dominio de la moto con el conductor. El conductor, subido en la motocicleta y con los dos pies en el suelo, debe indicarle al pasajero que:
 
-
-
-El pasajero de la motocicleta es también un motociclista, ya que comparte mucho el dominio de la moto con el conductor. El conductor, subido en la motocicleta y con los dos pies en el suelo, debe indicarle al pasajero que:
-
-Se suba únicamente después de que el conductor se lo indique y estando el motor apagado.
-Coloque los pues sobre los estribos.
-Se siente lo más adelante que pueda sin quitarle espacio al conductor.
-Se sujete firmemente en los dispositivos de sujeción.
-No se debe abrazar o sujetarse al conductor, porque puede comprometer el control de la motocicleta. Esto no aplica si el pasajero es un niño (mayor de cinco años).
-Mantenga los pies en los estribos incluso cuando se detienen.
-Mantenga las piernas alejadas de los tubos de escape, cadena o piezas móviles, pero sin abrirlas mucho, pues las rodillas u otras partes podrían golpear otro vehículo.
-Se debe inclinar cuando el conductor lo haga, especialmente en las curvas y cruces.
-Hable con el conductor solo si es necesario y preferiblemente por el lado izquierdo.
-Se debe sujetar con firmeza cuando se aproximan a superficies problemáticas, están a punto de arrancar después de una parada y cuando el conductor le avise que hará un movimiento brusco.
-
+		1-Se suba únicamente después de que el conductor se lo indique y estando el motor apagado.
+		2-Coloque los pues sobre los estribos.
+		3-Se siente lo más adelante que pueda sin quitarle espacio al conductor.
+		4-Se sujete firmemente en los dispositivos de sujeción.
+		5-No se debe abrazar o sujetarse al conductor, porque puede comprometer el control de la motocicleta. Esto no aplica si el pasajero es un niño (mayor de cinco años).
+		6-Mantenga los pies en los estribos incluso cuando se detienen.
+		7-Mantenga las piernas alejadas de los tubos de escape, cadena o piezas móviles, pero sin abrirlas mucho, pues las rodillas u otras partes podrían golpear otro vehículo.
+		8-Se debe inclinar cuando el conductor lo haga, especialmente en las curvas y cruces.
+		9-Hable con el conductor solo si es necesario y preferiblemente por el lado izquierdo.
+		10-Se debe sujetar con firmeza cuando se aproximan a superficies problemáticas, están a punto de arrancar después de una parada y cuando el conductor le avise que hará un movimiento brusco.
 
 7. Motociclismo en grupo
 
+	Estos son los consejos que todos los motociclistas que circulen en grupo deben seguir:
 
-
-
-Estos son los consejos que todos los motociclistas que circulen en grupo deben seguir:
-
-El grupo debe ser pequeño, pues así los automovilistas podrán rebasarlos de manera fácil y segura. Un grupo pequeño no se separa tan fácilmente a causa del tránsito y los semáforos. Si el grupo se compone por más de cuatro motociclistas, divídalo en dos o más subgrupos.
-El líder debe señalizar con anticipación cuando se va a hacer un cambio en la ruta o de carril, para que el aviso se transmita con tiempo a los demás.
-Los motociclistas sin experiencia deben ir detrás del líder, así los conductores más experimentados pueden vigilarlos desde atrás.
-Permita que el que va de último establezca el ritmo de la marcha. Si un motociclista se retrasa, todos deben disminuir la velocidad.
-Asegúrese de que todos conozcan el camino. Planifique paradas frecuentes en los viajes largos.
-Mantengan una distancia segura para que cada motociclista tenga tiempo y espacio para reaccionar ante los peligros.
-Nunca conduzca directamente al lado de otro motociclista.
-La mejor manera de mantenerse unidos es con la formación escalonada.
-
+		1-El grupo debe ser pequeño, pues así los automovilistas podrán rebasarlos de manera fácil y segura. Un grupo pequeño no se separa tan fácilmente a causa del tránsito y los semáforos. Si el grupo se compone por más de cuatro motociclistas, divídalo en dos o más subgrupos.
+		2-El líder debe señalizar con anticipación cuando se va a hacer un cambio en la ruta o de carril, para que el aviso se transmita con tiempo a los demás.
+		3-Los motociclistas sin experiencia deben ir detrás del líder, así los conductores más experimentados pueden vigilarlos desde atrás.
+		4-Permita que el que va de último establezca el ritmo de la marcha. Si un motociclista se retrasa, todos deben disminuir la velocidad.
+		5-Asegúrese de que todos conozcan el camino. Planifique paradas frecuentes en los viajes largos.
+		6-Mantengan una distancia segura para que cada motociclista tenga tiempo y espacio para reaccionar ante los peligros.
+		7-Nunca conduzca directamente al lado de otro motociclista.
+		8-La mejor manera de mantenerse unidos es con la formación escalonada.
 
 8. Conducción nocturna
 
+	Lo primero que se debe hacer es asegurarse de que las luces funcionen correctamente. Sin embargo, para los demás conductores no es fácil distinguir su faro delantero o trasero de las luces de los automóviles que lo rodean.
 
+	Para compensar, usted debería:
 
-
-Lo primero que se debe hacer es asegurarse de que las luces funcionen correctamente. Sin embargo, para los demás conductores no es fácil distinguir su faro delantero o trasero de las luces de los automóviles que lo rodean.
-
-Para compensar, usted debería:
-
-Reducir su velocidad.
-Use su luz alta cuando no esté detrás de otro vehículo o no venga uno de frente. En caso de encandilamiento, reduzca aun más la velocidad.
-
+		1-Reducir su velocidad.
+		2-Use su luz alta cuando no esté detrás de otro vehículo o no venga uno de frente. En caso de encandilamiento, reduzca aun más la velocidad.
 
 9. Superficies resbaladizas
-Para conducir sin peligro sobre superficies resbaladizas, como el pavimento mojado o los caminos de lastre:
+	Para conducir sin peligro sobre superficies resbaladizas, como el pavimento mojado o los caminos de lastre:
 
-Reduzca la velocidad antes de llegar a estas superficies.
-Evite movimientos bruscos, como cambios repentinos de velocidad o dirección.
-Use ambos frenos, presionándolos suavemente.
-
+		1-Reduzca la velocidad antes de llegar a estas superficies.
+		2-Evite movimientos bruscos, como cambios repentinos de velocidad o dirección.
+		3-Use ambos frenos, presionándolos suavemente.
 
 10. Sistemas de la motocicleta
-El motor es el encargado de proveer la fuerza de tracción a la motocicleta. Pueden ser de gasolina (dos y cuatro tiempos) o eléctricos.
+	
+	El motor es el encargado de proveer la fuerza de tracción a la motocicleta. Pueden ser de gasolina (dos y cuatro tiempos) o eléctricos.
 
+	10.1 Sistema de transmisión
 
+		Hay tres sistemas para conectar la fuerza del motor con la rueda:
 
-10.1 Sistema de transmisión
-Hay tres sistemas para conectar la fuerza del motor con la rueda:
+			Transmisión por cadena: Los eslabones de la cadena encajan por el lado del motor en los dientes de un piñón y por el otro en los dientes de una corona solidaria con la rueda trasera.
+			Transmisión por cardán: Una barra transmite la fuerza de movimiento del motor a la rueda mediante engranajes en ambos extremos.
+			Transmisión por faja: La diferencia con el de caneda, es que utiliza una faja dentada, la cual encaja tanto en el eje que sale del motor como en la rueda trasera de la motocicleta, mediante las poleas dentadas. Este sistema es más común en las scooter.
 
-	Transmisión por cadena: Los eslabones de la cadena encajan por el lado del motor en los dientes de un piñón y por el otro en los dientes de una corona solidaria con la rueda trasera.
-	Transmisión por cardán: Una barra transmite la fuerza de movimiento del motor a la rueda mediante engranajes en ambos extremos.
-	Transmisión por faja: La diferencia con el de caneda, es que utiliza una faja dentada, la cual encaja tanto en el eje que sale del motor como en la rueda trasera de la motocicleta, mediante las poleas dentadas. Este sistema es más común en las scooter.
+	10.2 Sistema de alimentación
 
+		Suministra al motor la energía que le permite realizar el trabajo de movilizar el vehículo. Se compone por un tanque de combustible, tubos, filtro, carburador y un filtro de aire.
 
-10.2 Sistema de alimentación
-Suministra al motor la energía que le permite realizar el trabajo de movilizar el vehículo. Se compone por un tanque de combustible, tubos, filtro, carburador y un filtro de aire.
+		Los motores de modelos más modernos pueden tener inyección directa en lugar de carburador.
 
-Los motores de modelos más modernos pueden tener inyección directa en lugar de carburador.
+	10.3 Sistema de escape
 
+		Evacua los gases quemados que resultan del proceso de combustión. Los elementos básicos son el múltiple de escape, tubo de escape, catalizador y silenciador.
 
+		La misión del silenciador es reducir el nivel de ruido. No se debe cambiar ni modificar para aumentar el nivel de ruido.
 
-10.3 Sistema de escape
+		El mal funcionamiento de este sistema puede provocar contaminación e intoxicación.
 
+	10.4 Sistema de refrigeración
 
+		Puede ser de aire o mediante líquido (agua o refrigerante).
 
+	10.5 Sistema de frenos
 
-Evacua los gases quemados que resultan del proceso de combustión. Los elementos básicos son el múltiple de escape, tubo de escape, catalizador y silenciador.
-
-La misión del silenciador es reducir el nivel de ruido. No se debe cambiar ni modificar para aumentar el nivel de ruido.
-
-El mal funcionamiento de este sistema puede provocar contaminación e intoxicación.
-
-
-
-10.4 Sistema de refrigeración
-Puede ser de aire o mediante líquido (agua o refrigerante).
-
-
-
-10.5 Sistema de frenos
-Hay un sistema trasero y otro delantero en las motocicletas.
+		Hay un sistema trasero y otro delantero en las motocicletas.
