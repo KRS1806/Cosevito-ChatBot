@@ -1,14 +1,9 @@
 from llama_index.llms.groq import Groq
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, StorageContext, load_index_from_storage, PromptTemplate
-from llama_index.core import Settings, get_response_synthesizer
-from llama_index.core.retrievers import VectorIndexRetriever
-from llama_index.core.query_engine import RetrieverQueryEngine
+from llama_index.core import Settings
 from llama_index.core.embeddings import resolve_embed_model
-from llama_index.core.postprocessor import SimilarityPostprocessor
 import os
 from dotenv import load_dotenv
-import logging
-import sys
 
 def query(message: str):
     # Cargar variables de entorno
@@ -22,9 +17,6 @@ def query(message: str):
     # Validar la consulta, asegurarse que no esté vacía
     if message.isspace() or not message:
         return "No puedes realizar consultas vacías"
-
-    logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
-    logging.getLogger().addHandler(logging.StreamHandler(stream=sys.stdout))
     
     # Configurar el modelo de embeddings (reemplazar LangchainEmbedding con lo que permita LlamaIndex)
     embed_model = resolve_embed_model(embed_model="local:BAAI/bge-large-en")
@@ -44,20 +36,11 @@ def query(message: str):
         documents = SimpleDirectoryReader(data_dir).load_data()
         # Crear el índice
         index = VectorStoreIndex.from_documents(documents, embed_model=embed_model)
-        # retriever = VectorIndexRetriever(
-        #     index=index,
-        #     similarity_top_k=3,  # Recuperar los 3 documentos más relevantes
-        # )
-        # Guardar el índice en almacenamiento persistente
         index.storage_context.persist(persist_dir=PERSIST_DIR)
     else:
         # Cargar el índice persistido
         storage_context = StorageContext.from_defaults(persist_dir=PERSIST_DIR)
         index = load_index_from_storage(storage_context=storage_context, embed_model=embed_model)
-        # retriever = VectorIndexRetriever(
-        #     index=index,
-        #     similarity_top_k=1,  # Recuperar los 3 documentos más relevantes
-        # )
 
     # Crear el prompt
     text_qa_template = PromptTemplate(
@@ -77,19 +60,6 @@ def query(message: str):
         """,
     )
 
-
-    # Crear el sintetizador de respuestas
-    # response_synthesizer = get_response_synthesizer(
-    #     llm=llm,
-    #     response_mode="compact",
-    # )
-
-    # Crear el motor de consulta con el retriever y el sintetizador de respuestas
-    # query_engine = RetrieverQueryEngine(
-    #     retriever=retriever,
-    #     response_synthesizer=response_synthesizer,
-    #     node_postprocessors=[SimilarityPostprocessor(similarity_cutoff=0.7)],  # Aplicar postprocesador de similitud
-    # )
 
     query_engine = index.as_query_engine(similarity_top_k=3)
 

@@ -1,6 +1,6 @@
 # COSEVITO Chatbot
 
-Specialized chatbot in preparation for COSEVI driving test
+Specialized chatbot in preparation for COSEVI driving test in Costa Rica
 
 ## Instalation
 
@@ -48,16 +48,6 @@ $ python manage.py runserver
 
 - Ask the bot your question
 
-```
-    query_engine = index.as_query_engine(llm=llm)
-
-    result = query_engine.query(message)
-
-    return str(result)
-
-result = query("How much is the parking ticket in Costa Rica?")
-print(result)
-```
 
 ## Aditional info
 
